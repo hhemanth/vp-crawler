@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>NPTEL PHASE 2 - Courses</title>
+<script language="javascript" src="js/jquery-1.5.1.min.js"></script>
+<script language="javascript" src="js/jquery.tablesorter.min.js"></script>
+<style type="text/css">
+
+#dhtmltooltip{
+position: absolute;
+width: auto;
+border: 2px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+-moz-border-radius: 10px 10px  10px 10px;
+border-radius: 10px 10px 10px 10px;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+</style>
+                <div id="dhtmltooltip"></div>
+
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=20 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+</script>
+
+<link rel="stylesheet" href="css/tablesorter.css" />
+
+</head>
+
+<body>
+
+	
+                 <table id="disciplineTable" class="tablesorter" cellspacing="1"  bgcolor="#cbba9f"> 
+        <thead>
+         <tr>     
+		 		  <th width=35%>Course Name</th>     
+                  <th width=4%>Type</th>     
+                  <th width=20%>Coordinators</th>     
+                  <th width=11%>Institute</th>     
+                  <th width=30%>Available</th> </tr> </thead>
+         <tbody> 
+          <tr><td >Applied mechanics</td><td>Video</td><td>Prof. Sanjeev Sanghi<br/>Prof. R.K. Mittal</td><td>IIT Delhi</td><td><a href=video.php?subjectId=122102004 target=_blank><b>Course contents</b></a></td></tr><tr><td >Basic Electronics</td><td>Web</td><td>Prof. Yatindra N Singh<br/>Prof. Joseph John</td><td>IIT Kanpur</td><td><a href=syllabus/syllabus.php?subjectId=122104013 target=_blank>Syllabus</a> <a href="courses/Webcourse-contents/IIT-KANPUR/esc102/index.html" target=_blank><b>Course contents</b></a></td></tr><tr><td >Basic Electronics and Lab</td><td>Video</td><td>Prof. T.S. Natarajan</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122106025 target=_blank>Syllabus</a> <a href=video.php?subjectId=122106025 target=_blank><b>Course contents</b></a></td></tr><tr><td >Basic Electronics and Lab</td><td>Web</td><td>Prof. T.S. Natarajan</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122106026 target=_blank>Syllabus</a> <a href="courses/IIT-MADRAS/Basic_Electronics_Lab/index.php" target=_blank><b>Course contents</b></a></td></tr><tr><td >Classical Physics</td><td>Video</td><td>Prof. V. Balakrishnan</td><td>IIT Madras</td><td><a href=video.php?subjectId=122106027 target=_blank><b>Course contents</b></a></td></tr><tr><td >Concept of Management and Evolution of Management thought</td><td>Video</td><td>Prof. K.B. Akhilesh</td><td>IISc Bangalore</td><td><a href=video.php?subjectId=122108038 target=_blank><b>Course contents</b></a></td></tr><tr><td >Engineering Chemistry I</td><td>Web</td><td>Prof. B.L. Tembe<br/>Prof. K. Mangala Sunder</td><td>IIT Bombay<br/>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122101001 target=_blank>Syllabus</a> <a href="javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Core%20Science/Engineering%20Chemistry%201/Course%20Objectives.html')" ><b>Course contents</b></a></td></tr><tr><td >Engineering Chemistry I</td><td>Video</td><td>Prof. K. Mangala Sunder</td><td>IIT Madras</td><td><a href=video.php?subjectId=122106028 target=_blank><b>Course contents</b></a></td></tr><tr><td >Engineering Chemistry III</td><td>Web</td><td>Prof. N. Narasimha Murthy<br/>Prof. Santosh J Gharpure<br/>Prof. K.M. Muraleedharan<br/>Prof. S. Sankararaman</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122106029 target=_blank>Syllabus</a> <a href="courses/IIT-MADRAS/Engineering_Chemistry_III/index.php" target=_blank><b>Course contents</b></a></td></tr><tr><td >Engineering Mechanics</td><td>Web</td><td>Prof. Manoj K Harbola</td><td>IIT Kanpur</td><td><a href=syllabus/syllabus.php?subjectId=122104014 target=_blank>Syllabus</a> <a href="courses/Webcourse-contents/IIT-KANPUR/engg_mechanics/ui/About-Faculty.html" target=_blank><b>Course contents</b></a></td></tr><tr><td >Engineering Mechanics</td><td>Video</td><td>Prof. Manoj K Harbola</td><td>IIT Kanpur</td><td><a href=syllabus/syllabus.php?subjectId=122104015 target=_blank>Syllabus</a> <a href=video.php?subjectId=122104015 target=_blank><b>Course contents</b></a></td></tr><tr><td >Engineering Physics I (Experiment)</td><td>Web</td><td>Prof. Alika Khare <br/>Prof. Pratima Agarwal<br/>Prof. S. Ravi</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=122103010 target=_blank>Syllabus</a> <a href="courses/Webcourse-contents/IIT- Guwahati/engg_phy2/index_exp.htm" target=_blank><b>Course contents</b></a></td></tr><tr><td >Engineering Physics I (Theory)</td><td>Web</td><td>Prof. Alika Khare <br/>Prof. Pratima Agarwal<br/>Prof. S. Ravi</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=122103011 target=_blank>Syllabus</a> <a href="courses/Webcourse-contents/IIT- Guwahati/engg_physics/index_cont.htm" target=_blank><b>Course contents</b></a></td></tr><tr><td >Engineering Physics II</td><td>Web</td><td>Prof. D.K. Ghosh</td><td>IIT Bombay</td><td><a href=syllabus/syllabus.php?subjectId=122101002 target=_blank>Syllabus</a> <a href="javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Core%20Science/Engineering%20Physics%202/Course%20Objectives.html')" ><b>Course contents</b></a></td></tr><tr><td >Engineering Physics II</td><td>Video</td><td>Prof. V. Ravishankar<br/>Prof. S. Raychaudhuri</td><td>IIT Kanpur</td><td><a href=video.php?subjectId=122104016 target=_blank><b>Course contents</b></a></td></tr><tr><td >Environment and Ecology</td><td>Web</td><td>Prof. Anuradha Sharma<br/>Prof. V.B. Upadhyay</td><td>IIT Delhi</td><td><a href=syllabus/syllabus.php?subjectId=122102006 target=_blank>Syllabus</a> <a href="courses/Webcourse-contents/IIT-Delhi/Environment and Ecology/index.htm" target=_blank><b>Course contents</b></a></td></tr><tr><td >Environmental Chemistry and Analysis</td><td>Web</td><td>Prof. M.S. Subramanian</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122106030 target=_blank>Syllabus</a> <a href="courses/IIT-MADRAS/Enivironmental_Chemistry_Analysis/index.php" target=_blank><b>Course contents</b></a></td></tr><tr><td >Human Resource Management-I</td><td>Video</td><td>Prof. Kalyan Chakravarti</td><td>IIT Kharagpur</td><td><a href=video.php?subjectId=122105020 target=_blank><b>Course contents</b></a></td></tr><tr><td >Leadership</td><td>Video</td><td>Prof. Kalyan Chakravarti</td><td>IIT Kharagpur</td><td><a href=video.php?subjectId=122105021 target=_blank><b>Course contents</b></a></td></tr><tr><td >Management Information System</td><td>Video</td><td>Prof. Biswajit Mahanty</td><td>IIT Kharagpur</td><td><a href=video.php?subjectId=122105022 target=_blank><b>Course contents</b></a></td></tr><tr><td >Management Science I</td><td>Video</td><td>Prof. Anuradha Sharma</td><td>IIT Delhi</td><td><a href=video.php?subjectId=122102007 target=_blank><b>Course contents</b></a></td></tr><tr><td >Management Science I</td><td>Web</td><td>Prof. M. Thenmozhi</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122106031 target=_blank>Syllabus</a> <a href="courses/IIT-MADRAS/Management_Science_I/index.php" target=_blank><b>Course contents</b></a></td></tr><tr><td >Management Science II</td><td>Web</td><td>Prof. R. Madhumathi</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122106032 target=_blank>Syllabus</a> <a href="courses/IIT-MADRAS/Management_Science_II/index.php" target=_blank><b>Course contents</b></a></td></tr><tr><td >Materials Science</td><td>Video</td><td>Prof. S.K. Gupta</td><td>IIT Delhi</td><td><a href=video.php?subjectId=122102008 target=_blank><b>Course contents</b></a></td></tr><tr><td >Mathematics I</td><td>Web</td><td>Prof. Inder K Rana</td><td>IIT Bombay</td><td><a href=syllabus/syllabus.php?subjectId=122101003 target=_blank>Syllabus</a> <a href="javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Core%20Science/Mathematics%20I/Course%20Objectives.html')" ><b>Course contents</b></a></td></tr><tr><td >Mathematics I</td><td>Video</td><td>Prof. Swagato K. Ray<br/>Prof. Shobha Madan<br/>Dr. P. Shunmugaraj</td><td>IIT Kanpur</td><td><a href=syllabus/syllabus.php?subjectId=122104017 target=_blank>Syllabus</a> <a href=video.php?subjectId=122104017 target=_blank><b>Course contents</b></a></td></tr><tr><td >Mathematics II</td><td>Web</td><td>Prof. P. Chandra<br/>Prof. A.K. Lal<br/>Prof. V. Raghavendra<br/>Prof. G. Santhanam</td><td>IIT Kanpur</td><td><a href=syllabus/syllabus.php?subjectId=122104018 target=_blank>Syllabus</a> <a href="courses/Webcourse-contents/IIT-KANPUR/mathematics-2/index.html" target=_blank><b>Course contents</b></a></td></tr><tr><td >Mathematics II</td><td>Video</td><td>Prof. Sunita Gakkhar<br/>Prof. H.G. Sharma<br/>Dr. Tanuja Srivastava</td><td>IIT Roorkee</td><td><a href=video.php?subjectId=122107036 target=_blank><b>Course contents</b></a></td></tr><tr><td >Mathematics III</td><td>Web</td><td>Dr. M. Guru Prem Prasad<br/>Prof. Durga C Dalal</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=122103012 target=_blank>Syllabus</a> <a href="courses/Webcourse-contents/IIT- Guwahati/maths3/index.htm" target=_blank><b>Course contents</b></a></td></tr><tr><td >Mathematics III</td><td>Video</td><td>Prof. P.N. Agrawal<br/>Dr. Tanuja Srivastava</td><td>IIT Roorkee</td><td><a href=syllabus/syllabus.php?subjectId=122107037 target=_blank>Syllabus</a> <a href=video.php?subjectId=122107037 target=_blank><b>Course contents</b></a></td></tr><tr><td >Numerical Analysis and Computer Programming</td><td>Video</td><td>Prof. P.B. Sunil Kumar</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122106033 target=_blank>Syllabus</a> <a href=video.php?subjectId=122106033 target=_blank><b>Course contents</b></a></td></tr><tr><td >Numerical Analysis in Computer Programming</td><td>Web</td><td>Prof. Rathish Kumar<br/>Prof. V. Raghavendra<br/>Prof. M.K. Kadalbajoo<br/>Prof. P.B. Sunil Kumar</td><td>IIT Kanpur<br/>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=122104019 target=_blank>Syllabus</a> <a href="courses/Webcourse-contents/IIT-KANPUR/Numerical Analysis/front.htm" target=_blank><b>Course contents</b></a></td></tr><tr><td >Numerical Methods and Computation</td><td>Video</td><td>Prof. S. R. K. Iyengar</td><td>IIT Delhi</td><td><a href=video.php?subjectId=122102009 target=_blank><b>Course contents</b></a></td></tr><tr><td >Physics I - Oscillations & Waves</td><td>Video</td><td>Prof. S. Bharadwaj</td><td>IIT Kharagpur</td><td><a href=video.php?subjectId=122105023 target=_blank><b>Course contents</b></a></td></tr><tr><td >Quantum Physics</td><td>Video</td><td>Prof. V. Balakrishnan</td><td>IIT Madras</td><td><a href=video.php?subjectId=122106034 target=_blank><b>Course contents</b></a></td></tr><tr><td >Strategic Management</td><td>Video</td><td>Prof. Kalyan Chakravarti</td><td>IIT Kharagpur</td><td><a href=video.php?subjectId=122105024 target=_blank><b>Course contents</b></a></td></tr></tbody>   
+        </table>
+        <script>
+
+$(document).ready(function() { 
+
+    // call the tablesorter plugin     
+$("#disciplineTable").tablesorter({  
+       // sort on the first column and third column, order asc        
+sortList: [[4,0]],  
+ headers: {             // assign the secound column (we start counting zero)             
+ 2: {                 // disable it by setting the property sorter to false                
+  sorter: false             }
+ }
+
+});  
+
+$("#instituteTable").tablesorter({  
+       // sort on the first column and third column, order asc        
+sortList: [[5,0],[1,0]],  
+ headers: {             // assign the secound column (we start counting zero)             
+ 3: {                 // disable it by setting the property sorter to false                
+  sorter: false             }
+ }
+
+}); 
+
+	});
+</script>
+</body>
+</html>
+ <!-- for analytics tracking -->

@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>NPTEL PHASE 2 - Courses</title>
+<script language="javascript" src="js/jquery-1.5.1.min.js"></script>
+<script language="javascript" src="js/jquery.tablesorter.min.js"></script>
+<style type="text/css">
+
+#dhtmltooltip{
+position: absolute;
+width: auto;
+border: 2px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+-moz-border-radius: 10px 10px  10px 10px;
+border-radius: 10px 10px 10px 10px;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+</style>
+                <div id="dhtmltooltip"></div>
+
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=20 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+</script>
+
+<link rel="stylesheet" href="css/tablesorter.css" />
+
+</head>
+
+<body>
+
+	
+                 <table id="disciplineTable" class="tablesorter" cellspacing="1"  bgcolor="#cbba9f"> 
+        <thead>
+         <tr>     
+		 		  <th width=35%>Course Name</th>     
+                  <th width=4%>Type</th>     
+                  <th width=20%>Coordinators</th>     
+                  <th width=11%>Institute</th>     
+                  <th width=30%>Available</th> </tr> </thead>
+         <tbody> 
+          <tr><td >Analysis of Ship Structures</td><td>Web</td><td>Prof. S.K. Bhattacharyya</td><td>IIT Madras</td><td>Under development</td></tr><tr><td >Applied Thermodynamics for Marine Systems</td><td>Video</td><td>Prof. P.K. Das</td><td>IIT Kharagpur</td><td><a href=video.php?subjectId=114105029 target=_blank><b>Course contents</b></a></td></tr><tr><td >CAD-CAM in Marine design and production</td><td>Video</td><td>Prof. N.R. Mandal<br/>Prof. O.P. Sha</td><td>IIT Kharagpur</td><td>Under development</td></tr><tr><td >CFD Applications in Marine Vehicle Design</td><td>Web</td><td>Prof. K. Murali</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106009 target=_blank>Syllabus only</a></td></tr><tr><td >Coastal Engineering</td><td>Video</td><td>Prof. V. Sundar</td><td>IIT Madras</td><td><img src='/images/new.gif' align='top' height='20' width='30'><a href=syllabus/syllabus.php?subjectId=114106032 target=_blank>Syllabus</a> <a href='/courses/114106032/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114106032' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Design of Offshore Structures</td><td>Web</td><td>Dr. S. Nallayarasu</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106011 target=_blank>Syllabus only</a></td></tr><tr><td >Design of Ship Structures</td><td>Web</td><td>Prof. S.K. Bhattacharyya<br/>Mr. J. Dasgupta</td><td>IIT Madras<br/>L&T ENC</td><td>Under development</td></tr><tr><td >Dynamics of Ocean Structures</td><td>Video</td><td>Dr. Srinivasan Chandrasekaran</td><td>IIT Madras</td><td><img src='/images/new.gif' align='top' height='20' width='30'><a href=syllabus/syllabus.php?subjectId=114106036 target=_blank>Syllabus</a> <a href='/courses/114106036/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114106036' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Elements of Ocean Engineering</td><td>Video</td><td>Dr. Ashoke Bhar </td><td>IIT Kharagpur</td><td><a href=syllabus/syllabus.php?subjectId=114105002 target=_blank>Syllabus</a> <a href='/courses/114105002/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114105002' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Experimental Methods in Ocean Engineering</td><td>Web</td><td>Prof. V.G. Idichandy</td><td>IIT Madras</td><td>Under development</td></tr><tr><td >Finite element method and its implementation for steady and transient problems</td><td>Video</td><td>Prof. P Nithiarasu</td><td>Swansea University</td><td><a href=syllabus/syllabus.php?subjectId=114106034 target=_blank>Syllabus only</a></td></tr><tr><td >Foundation for Offshore Structures</td><td>Web</td><td>Dr. S. Nallayarasu</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106015 target=_blank>Syllabus only</a></td></tr><tr><td >Guidance and Control of Marine Vehicles</td><td>Video</td><td>Dr. R. Panner Selvam<br/>Dr. P. Krishnankutty</td><td>IIT Madras</td><td>Under development</td></tr><tr><td >Health,Safety and Environmental Management in Petroleum and Offshore Engineering</td><td>Video</td><td>Dr. Srinivasan Chandrasekaran</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106017 target=_blank>Syllabus</a> <a href='/courses/114106017/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;1</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114106017' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Hydrostatics and Stability</td><td>Video</td><td>Dr. Hari V. Warrior</td><td>IIT Kharagpur</td><td><a href=syllabus/syllabus.php?subjectId=114105003 target=_blank>Syllabus</a> <a href='/courses/114105003/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Assignments: 1 </b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='downloads/114105003/' target=_blank><img  src='/images/download.png' align='top' height='20' width='20'></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;3</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114105003' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Marine Construction and Welding</td><td>Video</td><td>Prof. N.R. Mandal</td><td>IIT Kharagpur</td><td><a href=syllabus/syllabus.php?subjectId=114105004 target=_blank>Syllabus</a> <a href='/courses/114105004/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Assignments: 1 </b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='downloads/114105004/' target=_blank><img  src='/images/download.png' align='top' height='20' width='20'></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;5</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114105004' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Marine Hydrodynamics</td><td>Video</td><td>Dr. T. Sahoo</td><td>IIT Kharagpur</td><td><a href=syllabus/syllabus.php?subjectId=114105005 target=_blank>Syllabus</a> <a href='/courses/114105005/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114105005' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Marine Instrumentation</td><td>Web</td><td>Prof. V.G. Idichandy</td><td>IIT Madras</td><td>Under development</td></tr><tr><td >Marine Survey</td><td>Web</td><td>Dr. P. Shanmugam</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106019 target=_blank>Syllabus only</a></td></tr><tr><td >Ocean Acoustics</td><td>Web</td><td>Prof. C.P. Vendhan<br/>Prof. S.K. Bhattacharyya</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106022 target=_blank>Syllabus only</a></td></tr><tr><td >Ocean Structures and Materials</td><td>Video</td><td>Dr. Srinivasan Chandrasekaran</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106035 target=_blank>Syllabus only</a></td></tr><tr><td >Oceanography for Ocean Engineers</td><td>Web</td><td>Dr. P. Shanmugam</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106024 target=_blank>Syllabus only</a></td></tr><tr><td >Performance of Marine Vehicles at Sea</td><td>Video</td><td>Prof. Debabrata Sen<br/>Prof. S.C. Misra</td><td>IIT Kharagpur</td><td><a href=video.php?subjectId=114105030 target=_blank><b>Course contents</b></a></td></tr><tr><td >Port and Harbour Structures</td><td>Video</td><td>Prof. R. Sundaravadivelu</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106025 target=_blank>Syllabus only</a></td></tr><tr><td >Seakeeping & Manoeuvring</td><td>Video</td><td>Prof. Debabrata Sen</td><td>IIT Kharagpur</td><td><a href=syllabus/syllabus.php?subjectId=114105006 target=_blank>Syllabus</a> <a href='/courses/114105006/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Assignments: 9 </b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='downloads/114105006/' target=_blank><img  src='/images/download.png' align='top' height='20' width='20'></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114105006' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Ship Design</td><td>Video</td><td>Prof. O.P. Sha</td><td>IIT Kharagpur</td><td>Under development</td></tr><tr><td >Ship Resistance and Propulsion</td><td>Video</td><td>Dr. P. Krishnankutty<br/>Prof. V. Anantha Subramanian</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106026 target=_blank>Syllabus only</a></td></tr><tr><td >Strength and Vibration of Marine Structures</td><td>Video</td><td>Prof. S.K. Satsangi<br/>Prof. A.H. Sheikh</td><td>IIT Kharagpur</td><td><a href=video.php?subjectId=114105031 target=_blank><b>Course contents</b></a></td></tr><tr><td >Wave Hydrodynamics</td><td>Video</td><td>Prof. V. Sundar</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106033 target=_blank>Syllabus</a> <a href='/courses/114106033/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114106033' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Wave simulation, measurement and analysis</td><td>Web</td><td>Prof. S.A. Sannasiraj</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=114106028 target=_blank>Syllabus</a> <a href="/courses/114106028" target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=114106028' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr></tbody>   
+        </table>
+        <script>
+
+$(document).ready(function() { 
+
+    // call the tablesorter plugin     
+$("#disciplineTable").tablesorter({  
+       // sort on the first column and third column, order asc        
+sortList: [[4,0]],  
+ headers: {             // assign the secound column (we start counting zero)             
+ 2: {                 // disable it by setting the property sorter to false                
+  sorter: false             }
+ }
+
+});  
+
+$("#instituteTable").tablesorter({  
+       // sort on the first column and third column, order asc        
+sortList: [[5,0],[1,0]],  
+ headers: {             // assign the secound column (we start counting zero)             
+ 3: {                 // disable it by setting the property sorter to false                
+  sorter: false             }
+ }
+
+}); 
+
+	});
+</script>
+</body>
+</html>
+ <!-- for analytics tracking -->

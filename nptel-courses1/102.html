@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>NPTEL PHASE 2 - Courses</title>
+<script language="javascript" src="js/jquery-1.5.1.min.js"></script>
+<script language="javascript" src="js/jquery.tablesorter.min.js"></script>
+<style type="text/css">
+
+#dhtmltooltip{
+position: absolute;
+width: auto;
+border: 2px solid black;
+padding: 2px;
+background-color: lightyellow;
+visibility: hidden;
+z-index: 100;
+-moz-border-radius: 10px 10px  10px 10px;
+border-radius: 10px 10px 10px 10px;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
+}
+</style>
+                <div id="dhtmltooltip"></div>
+
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetxpoint=-60 //Customize x offset of tooltip
+var offsetypoint=20 //Customize y offset of tooltip
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thecolor, thewidth){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-20
+var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-20
+
+var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth)
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetxpoint+"px"
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight)
+tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
+else
+tipobj.style.top=curY+offsetypoint+"px"
+tipobj.style.visibility="visible"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+
+document.onmousemove=positiontip
+</script>
+
+<link rel="stylesheet" href="css/tablesorter.css" />
+
+</head>
+
+<body>
+
+	
+                 <table id="disciplineTable" class="tablesorter" cellspacing="1"  bgcolor="#cbba9f"> 
+        <thead>
+         <tr>     
+		 		  <th width=35%>Course Name</th>     
+                  <th width=4%>Type</th>     
+                  <th width=20%>Coordinators</th>     
+                  <th width=11%>Institute</th>     
+                  <th width=30%>Available</th> </tr> </thead>
+         <tbody> 
+          <tr><td >Advanced Clinical Proteomics</td><td>Web</td><td>Prof. Sanjeeva Srivastava</td><td>IIT Bombay</td><td><a href=syllabus/syllabus.php?subjectId=102101040 target=_blank>Syllabus only</a></td></tr><tr><td >Analytical Technologies in Biotechnology</td><td>Video</td><td>Dr. Ashwani K Sharma</td><td>IIT Roorkee</td><td><a href=syllabus/syllabus.php?subjectId=102107028 target=_blank>Syllabus only</a></td></tr><tr><td >Bioenergetics and Intermediary metabolism</td><td>Video</td><td>Prof. N.S. Punekar<br/>Prof. P.J. Bhat</td><td>IIT Bombay</td><td><a href=syllabus/syllabus.php?subjectId=102101002 target=_blank>Syllabus only</a></td></tr><tr><td >Biomathematics</td><td>Video</td><td>Dr. Ranjith Padinhateeri</td><td>IIT Bombay</td><td><a href=syllabus/syllabus.php?subjectId=102101003 target=_blank>Syllabus</a> <a href='/courses/102101003/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Lecture Notes: 39 <br>Handouts: 38 <br>Assignments: 1 </b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='downloads/102101003/' target=_blank><img  src='/images/download.png' align='top' height='20' width='20'></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;1</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=102101003' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Bioprocess Principles</td><td>Video</td><td>Dr. Sanjoy Ghosh</td><td>IIT Roorkee</td><td><a href=syllabus/syllabus.php?subjectId=102107029 target=_blank>Syllabus only</a></td></tr><tr><td >Cell Biology</td><td>Web</td><td>Dr. Sanjukta Patra  </td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=102103012 target=_blank>Syllabus only</a></td></tr><tr><td >Cellular and Molecular Immunology</td><td>Web</td><td>Dr. Sachin Kumar</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=102103038 target=_blank>Syllabus</a> <a href="/courses/102103038" target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Handouts: 6 <br>Assignments: 2 </b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='downloads/102103038/' target=_blank><img  src='/images/download.png' align='top' height='20' width='20'></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;4</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=102103038' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Chemical Biology</td><td>Video</td><td>Dr. V. Kesavan</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=102106021 target=_blank>Syllabus only</a></td></tr><tr><td >Downstream Processing</td><td>Video</td><td>Prof. Mukesh Doble</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=102106022 target=_blank>Syllabus only</a></td></tr><tr><td >Enzyme Science and Engineering</td><td>Video</td><td>Prof. Subhash Chand</td><td>IIT Delhi</td><td><a href=video.php?subjectId=102102033 target=_blank><b>Course contents</b></a></td></tr><tr><td >General Virology</td><td>Web</td><td>Dr. Sachin Kumar</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=102103039 target=_blank>Syllabus</a> <a href="/courses/102103039" target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Handouts: 6 <br>Assignments: 2 </b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='downloads/102103039/' target=_blank><img  src='/images/download.png' align='top' height='20' width='20'></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;1</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=102103039' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Genetic Engineering & Applications</td><td>Web</td><td>Dr. Utpal Bora</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=102103013 target=_blank>Syllabus only</a></td></tr><tr><td >Genetics</td><td>Video</td><td>Prof. G. S. Randhawa</td><td>IIT Roorkee</td><td><a href=syllabus/syllabus.php?subjectId=102107030 target=_blank>Syllabus only</a></td></tr><tr><td >Immunology</td><td>Video</td><td>Prof. R. P. Singh</td><td>IIT Roorkee</td><td><a href=syllabus/syllabus.php?subjectId=102107031 target=_blank>Syllabus only</a></td></tr><tr><td >Introduction to Computational Neuroscience</td><td>Web</td><td>Dr. V Srinivasa Chakravarthy</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=102106023 target=_blank>Syllabus</a> <a href="/courses/102106023" target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=102106023' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Metabolic Engineering</td><td>Web</td><td>Dr. V. Venkata Dasu</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=102103014 target=_blank>Syllabus only</a></td></tr><tr><td >Microbiology</td><td>Web</td><td>Dr. Gurvinder Kaur Saini</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=102103015 target=_blank>Syllabus only</a></td></tr><tr><td >Molecular Biophysics</td><td>Video</td><td>Prof. Petety V. Balaji</td><td>IIT Bombay</td><td><a href=syllabus/syllabus.php?subjectId=102101006 target=_blank>Syllabus only</a></td></tr><tr><td >Molecular Cell Biology</td><td>Video</td><td>Dr. Bishwajit Kundu</td><td>IIT Delhi</td><td><a href=syllabus/syllabus.php?subjectId=102102009 target=_blank>Syllabus only</a></td></tr><tr><td >Molecular Cell Biology</td><td>Web</td><td>Prof. Devarajan Karunagaran</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=102106025 target=_blank>Syllabus only</a></td></tr><tr><td >Plant Biotechnology</td><td>Web</td><td>Dr. Rakhi Chaturvedi</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=102103016 target=_blank>Syllabus</a> <a href="/courses/102103016" target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;6</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=102103016' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Protein Folding</td><td>Video</td><td>Dr. Tapan K. Chaudhuri</td><td>IIT Delhi</td><td><a href=syllabus/syllabus.php?subjectId=102102010 target=_blank>Syllabus only</a></td></tr><tr><td >Protein Science and Engineering</td><td>Video</td><td>Prof. Mishra Saroj </td><td>IIT Delhi</td><td><a href=syllabus/syllabus.php?subjectId=102102011 target=_blank>Syllabus only</a></td></tr><tr><td >Proteomics and Genomics</td><td>Web</td><td>Dr. Vikash Kumar Dubey</td><td>IIT Guwahati</td><td><a href=syllabus/syllabus.php?subjectId=102103017 target=_blank>Syllabus</a> <a href="/courses/102103017" target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;4</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=102103017' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Proteomics: Principles and Techniques</td><td>Video</td><td>Prof. Sanjeeva Srivastava</td><td>IIT Bombay</td><td><a href=syllabus/syllabus.php?subjectId=102101007 target=_blank>Syllabus only</a></td></tr><tr><td >Systems Biology</td><td>Web</td><td>Dr. M. Vijayalakshmi</td><td>SASTRA University</td><td><a href=syllabus/syllabus.php?subjectId=102106035 target=_blank>Syllabus only</a></td></tr><tr><td >Thermodynamics</td><td>Video</td><td>Prof. G.K. Suraishkumar</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=102106026 target=_blank>Syllabus</a> <a href='/courses/102106026/'  target=_blank><b>Course contents</b></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Assignments: 1 <br>Evaluations: 6 <br>Others: 1 </b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='downloads/102106026/' target=_blank><img  src='/images/download.png' align='top' height='20' width='20'></a>&nbsp;&nbsp;<a onMouseover="ddrivetip('<span style=color:white><b>Ask a question&nbsp;:&nbsp;0</b></span>', '#c13332')" onMouseout="hideddrivetip()" class=topmenu style='border-color:transparent' href='/courses/askaquestion.php?subjectId=102106026' target=_blank><img  title='' src='/images/ask.png' align='top' height='20' width='20'></a></td></tr><tr><td >Tissue Engineering</td><td>Web</td><td>Dr. S. Swaminathan</td><td>SASTRA University</td><td><a href=syllabus/syllabus.php?subjectId=102106036 target=_blank>Syllabus only</a></td></tr><tr><td >Unit Operations</td><td>Web</td><td>Prof. K.B. Ramachandran</td><td>IIT Madras</td><td><a href=syllabus/syllabus.php?subjectId=102106027 target=_blank>Syllabus only</a></td></tr></tbody>   
+        </table>
+        <script>
+
+$(document).ready(function() { 
+
+    // call the tablesorter plugin     
+$("#disciplineTable").tablesorter({  
+       // sort on the first column and third column, order asc        
+sortList: [[4,0]],  
+ headers: {             // assign the secound column (we start counting zero)             
+ 2: {                 // disable it by setting the property sorter to false                
+  sorter: false             }
+ }
+
+});  
+
+$("#instituteTable").tablesorter({  
+       // sort on the first column and third column, order asc        
+sortList: [[5,0],[1,0]],  
+ headers: {             // assign the secound column (we start counting zero)             
+ 3: {                 // disable it by setting the property sorter to false                
+  sorter: false             }
+ }
+
+}); 
+
+	});
+</script>
+</body>
+</html>
+ <!-- for analytics tracking -->

@@ -1,0 +1,1219 @@
+name,course_id,disciplineId,type,under_development,syllabus_link,course_link
+Acoustic Instabilities in Aerospace Propulsion,101106031,101,Video,false,syllabus/syllabus.php?subjectId=101106031,/courses/101106031/
+Advanced Control System Design for Aerospace Vehicles,101108047,101,Video,false,syllabus/syllabus.php?subjectId=101108047,/courses/101108047/
+Advanced Structual Mechanics,101108048,101,Web,false,syllabus/syllabus.php?subjectId=101108048,
+Aero elasticity,101104005,101,Video,false,syllabus/syllabus.php?subjectId=101104005,/courses/101104005/
+Aerodynamics,101106032,101,Web,false,syllabus/syllabus.php?subjectId=101106032,
+Aerodynamics,101108049,101,Web,false,syllabus/syllabus.php?subjectId=101108049,
+Aeroservoelasticity,101108050,101,Web,false,syllabus/syllabus.php?subjectId=101108050,
+Aerospace Propulsion,101106033,101,Video,false,syllabus/syllabus.php?subjectId=101106033,
+Aircraft Performance, Stability and control with experiments in Flight,,101,Video,true,,
+Aircraft Structural Dynamics,101105022,101,Web,false,syllabus/syllabus.php?subjectId=101105022,
+Aircraft Structures,,101,Web,true,,
+Airplane design (Aerodynamic),101106035,101,Web,false,syllabus/syllabus.php?subjectId=101106035,
+Basic Strength of Materials and Elasticity (or) Solid Mechanics,101106036,101,Web,false,syllabus/syllabus.php?subjectId=101106036,
+Combustion,101106037,101,Video,false,syllabus/syllabus.php?subjectId=101106037,
+Composite Materials,101106038,101,Web,false,syllabus/syllabus.php?subjectId=101106038,
+Composite Materials and Structures,101104010,101,Web,false,syllabus/syllabus.php?subjectId=101104010,/courses/101104010
+Composite Structures,101106039,101,Web,false,syllabus/syllabus.php?subjectId=101106039,
+Elastic Wave Propagation in Structures,101108051,101,Web,false,syllabus/syllabus.php?subjectId=101108051,
+Experimental Gas/Aerodynamics,101106040,101,Web,false,syllabus/syllabus.php?subjectId=101106040,/courses/101106040
+Flight dynamics I - Airplane performance,101106041,101,Web,false,syllabus/syllabus.php?subjectId=101106041,/courses/101106041
+Flight Dynamics II (Stability),101106042,101,Video,false,syllabus/syllabus.php?subjectId=101106042,/courses/101106042/
+Flight dynamics II - Airplane stability and control,101106043,101,Web,false,syllabus/syllabus.php?subjectId=101106043,/courses/101106043
+Flight vehicle System Identification,,101,Web,true,,
+Fluid Dynamics,101108052,101,Video,false,syllabus/syllabus.php?subjectId=101108052,
+Foundation of Scientific Computing,/courses/101104013/,101,Video,false,/courses/101104013/,/courses/askaquestion.php?subjectId=101104013
+Fundamentals of Combustion,101104014,101,Web,false,syllabus/syllabus.php?subjectId=101104014,/courses/101104014
+Gas Dynamics,101106044,101,Video,false,syllabus/syllabus.php?subjectId=101106044,/courses/101106044/
+Gas Dynamics,,101,Web,true,,
+Guidance of Missiles,101108054,101,Web,false,syllabus/syllabus.php?subjectId=101108054,
+High Speed Aero Dynamics,101105023,101,Web,false,syllabus/syllabus.php?subjectId=101105023,/courses/101105023
+High Speed Aero Dynamics,101105024,101,Video,false,syllabus/syllabus.php?subjectId=101105024,
+Hypersonic Aerodynamics,101103003,101,Web,false,syllabus/syllabus.php?subjectId=101103003,/courses/101103003
+Instability and Transition of Fluid Flows,101104015,101,Video,false,syllabus/syllabus.php?subjectId=101104015,/courses/101104015/
+Introduction to Aerodynamics,,101,Video,true,,
+Introduction to Aerospace Propulsion,101101001,101,Video,false,syllabus/syllabus.php?subjectId=101101001,/courses/101101001/
+Introduction to Air-breathing Propulsion,101104016,101,Web,false,syllabus/syllabus.php?subjectId=101104016,
+Introduction to CFD,101106045,101,Video,false,syllabus/syllabus.php?subjectId=101106045,
+Introduction to Helicopter Aerodynamics and Dynamics,101104017,101,Video,false,syllabus/syllabus.php?subjectId=101104017,/courses/101104017/
+Introduction to Propulsion,,101,Video,true,,
+Jet Aircraft Propulsion,101101002,101,Video,false,syllabus/syllabus.php?subjectId=101101002,/courses/101101002/
+Jet and Rocket Propulsion,101104019,101,Video,false,syllabus/syllabus.php?subjectId=101104019,
+Navigation, Guidance, And Control,101108056,101,Web,false,syllabus/syllabus.php?subjectId=101108056,
+Optimal Control, Guidance and Estimation.,101108057,101,Video,false,syllabus/syllabus.php?subjectId=101108057,/courses/101108057/
+Principles of Fluid Dynamics,101103004,101,Web,false,syllabus/syllabus.php?subjectId=101103004,/courses/101103004
+Space Flight Mechanics,101105029,101,Web,false,syllabus/syllabus.php?subjectId=101105029,
+Space Flight Mechanics,101105030,101,Video,false,syllabus/syllabus.php?subjectId=101105030,/courses/101105030/
+Space Technology,101106046,101,Web,false,syllabus/syllabus.php?subjectId=101106046,
+Turbomachinery Aerodynamics,101101058,101,Video,false,syllabus/syllabus.php?subjectId=101101058,/courses/101101058/
+Advanced Clinical Proteomics,102101040,102,Web,false,syllabus/syllabus.php?subjectId=102101040,
+Analytical Technologies in Biotechnology,102107028,102,Video,false,syllabus/syllabus.php?subjectId=102107028,
+Bioenergetics and Intermediary metabolism,102101002,102,Video,false,syllabus/syllabus.php?subjectId=102101002,
+Biomathematics,102101003,102,Video,false,syllabus/syllabus.php?subjectId=102101003,/courses/102101003/
+Bioprocess Principles,102107029,102,Video,false,syllabus/syllabus.php?subjectId=102107029,
+Cell Biology,102103012,102,Web,false,syllabus/syllabus.php?subjectId=102103012,
+Cellular and Molecular Immunology,102103038,102,Web,false,syllabus/syllabus.php?subjectId=102103038,/courses/102103038
+Chemical Biology,102106021,102,Video,false,syllabus/syllabus.php?subjectId=102106021,
+Downstream Processing,102106022,102,Video,false,syllabus/syllabus.php?subjectId=102106022,
+Enzyme Science and Engineering,102102033,102,Video,false,video.php?subjectId=102102033,
+General Virology,102103039,102,Web,false,syllabus/syllabus.php?subjectId=102103039,/courses/102103039
+Genetic Engineering & Applications,102103013,102,Web,false,syllabus/syllabus.php?subjectId=102103013,
+Genetics,102107030,102,Video,false,syllabus/syllabus.php?subjectId=102107030,
+Immunology,102107031,102,Video,false,syllabus/syllabus.php?subjectId=102107031,
+Introduction to Computational Neuroscience,102106023,102,Web,false,syllabus/syllabus.php?subjectId=102106023,/courses/102106023
+Metabolic Engineering,102103014,102,Web,false,syllabus/syllabus.php?subjectId=102103014,
+Microbiology,102103015,102,Web,false,syllabus/syllabus.php?subjectId=102103015,
+Molecular Biophysics,102101006,102,Video,false,syllabus/syllabus.php?subjectId=102101006,
+Molecular Cell Biology,102102009,102,Video,false,syllabus/syllabus.php?subjectId=102102009,
+Molecular Cell Biology,102106025,102,Web,false,syllabus/syllabus.php?subjectId=102106025,
+Plant Biotechnology,102103016,102,Web,false,syllabus/syllabus.php?subjectId=102103016,/courses/102103016
+Protein Folding,102102010,102,Video,false,syllabus/syllabus.php?subjectId=102102010,
+Protein Science and Engineering,102102011,102,Video,false,syllabus/syllabus.php?subjectId=102102011,
+Proteomics and Genomics,102103017,102,Web,false,syllabus/syllabus.php?subjectId=102103017,/courses/102103017
+Proteomics: Principles and Techniques,102101007,102,Video,false,syllabus/syllabus.php?subjectId=102101007,
+Systems Biology,102106035,102,Web,false,syllabus/syllabus.php?subjectId=102106035,
+Thermodynamics,102106026,102,Video,false,syllabus/syllabus.php?subjectId=102106026,/courses/102106026/
+Tissue Engineering,102106036,102,Web,false,syllabus/syllabus.php?subjectId=102106036,
+Unit Operations,102106027,102,Web,false,syllabus/syllabus.php?subjectId=102106027,
+Advanced Chemical Reaction Engineering (PG),103101001,103,Video,false,syllabus/syllabus.php?subjectId=103101001,
+Advanced Chemical Reaction Engineering (PG),103101002,103,Web,false,syllabus/syllabus.php?subjectId=103101002,
+Advanced Heat and Mass Transfer,103105052,103,Web,false,syllabus/syllabus.php?subjectId=103105052,
+Advanced Mathematical Techniques in Chemical Engineering,103105106,103,Video,false,syllabus/syllabus.php?subjectId=103105106,/courses/103105106/
+Advanced Process Control,103101003,103,Video,false,syllabus/syllabus.php?subjectId=103101003,
+Advanced Process Control,103106067,103,Web,false,syllabus/syllabus.php?subjectId=103106067,
+Advanced Thermodynamics,103104040,103,Web,false,syllabus/syllabus.php?subjectId=103104040,
+Advanced Transport Phenomena,103106068,103,Web,false,syllabus/syllabus.php?subjectId=103106068,/courses/103106068
+Advanced Transport Phenomena (PG),103106069,103,Video,false,syllabus/syllabus.php?subjectId=103106069,
+Biochemical Engineering,103105054,103,Video,false,syllabus/syllabus.php?subjectId=103105054,/courses/103105054/
+Catalyst Science and Technology,103102012,103,Video,false,syllabus/syllabus.php?subjectId=103102012,
+Catalyst Science and Technology,103103026,103,Web,false,syllabus/syllabus.php?subjectId=103103026,
+Chemical Engineering Design - I,103107079,103,Video,false,syllabus/syllabus.php?subjectId=103107079,
+Chemical Engineering Design - I,103107080,103,Web,false,syllabus/syllabus.php?subjectId=103107080,
+Chemical Engineering Design - II,103103027,103,Web,false,syllabus/syllabus.php?subjectId=103103027,/courses/103103027
+Chemical Engineering Thermodynamics,103101004,103,Web,false,syllabus/syllabus.php?subjectId=103101004,/courses/103101004
+Chemical Engineering Thermodynamics,103106070,103,Video,false,syllabus/syllabus.php?subjectId=103106070,
+Chemical Plant Safety and Risk Assessment,103106071,103,Web,false,syllabus/syllabus.php?subjectId=103106071,
+Chemical process industries,103106109,103,Web,false,syllabus/syllabus.php?subjectId=103106109,
+Chemical Reaction Engineering,103108097,103,Video,false,syllabus/syllabus.php?subjectId=103108097,/courses/103108097/
+Chemical Reaction Engineering I,103101005,103,Web,false,syllabus/syllabus.php?subjectId=103101005,
+Chemical Reaction Engineering I,103101006,103,Video,false,syllabus/syllabus.php?subjectId=103101006,
+Chemical Reaction Engineering II,103101007,103,Web,false,syllabus/syllabus.php?subjectId=103101007,
+Chemical Reaction Engineering II,103101008,103,Video,false,syllabus/syllabus.php?subjectId=103101008,
+Chemical Technology - I,103107081,103,Video,false,syllabus/syllabus.php?subjectId=103107081,
+Chemical Technology - I,103107082,103,Web,false,syllabus/syllabus.php?subjectId=103107082,
+Chemical Technology - II,/courses/103103029,103,Web,false,/courses/103103029,downloads/103103029/
+Computational Fluid Dynamics,103106073,103,Video,false,syllabus/syllabus.php?subjectId=103106073,/courses/103106073/
+Computational Techniques,103101009,103,Web,false,syllabus/syllabus.php?subjectId=103101009,
+Computational Techniques,103106074,103,Video,false,syllabus/syllabus.php?subjectId=103106074,/courses/103106074/
+Computer Applications in Chemical Engineering,103105055,103,Web,false,syllabus/syllabus.php?subjectId=103105055,
+Environmental Engineering,,103,Video,true,,
+Environmental Engineering,103107084,103,Web,false,syllabus/syllabus.php?subjectId=103107084,
+Fertilizer Engineering,,103,Video,true,,
+Fertilizer Engineering,/courses/103107086,103,Web,false,/courses/103107086,/courses/askaquestion.php?subjectId=103107086
+Fluid Mechanics,103104043,103,Web,false,syllabus/syllabus.php?subjectId=103104043,/courses/103104043
+Fluid Mechanics,103104044,103,Video,false,syllabus/syllabus.php?subjectId=103104044,/courses/103104044/
+Fluidization Engineering,103102013,103,Web,false,syllabus/syllabus.php?subjectId=103102013,
+Fluidization Engineering,103102014,103,Video,false,syllabus/syllabus.php?subjectId=103102014,
+Food Engineering,103107088,103,Web,false,syllabus/syllabus.php?subjectId=103107088,
+Food Engineering,103107089,103,Video,false,syllabus/syllabus.php?subjectId=103107089,
+Fuel Cell Technology,103102015,103,Web,false,syllabus/syllabus.php?subjectId=103102015,/courses/103102015
+Fuel Cell Technology,103103030,103,Web,false,syllabus/syllabus.php?subjectId=103103030,
+Fundamentals of Transport Processes,103108098,103,Video,false,syllabus/syllabus.php?subjectId=103108098,/courses/103108098/
+Fundamentals of Transport Processes - II,103108099,103,Video,false,syllabus/syllabus.php?subjectId=103108099,/courses/103108099/
+Heat Transfer,103103031,103,Video,false,syllabus/syllabus.php?subjectId=103103031,/courses/103103031/
+Heat Transfer,103103032,103,Web,false,syllabus/syllabus.php?subjectId=103103032,/courses/103103032
+Heavy and Fine Chemicals (Chemical Process Technology),103106108,103,Web,false,syllabus/syllabus.php?subjectId=103106108,/courses/103106108
+Instability & Patterning of Thin Polymer Films,103105065,103,Web,false,syllabus/syllabus.php?subjectId=103105065,
+Instability and Patterning of Thin Polymer Films,103105066,103,Video,false,syllabus/syllabus.php?subjectId=103105066,/courses/103105066/
+Interfacial Engineering,103102016,103,Video,false,syllabus/syllabus.php?subjectId=103102016,
+Interfacial Engineering,103103033,103,Web,false,syllabus/syllabus.php?subjectId=103103033,/courses/103103033
+Introduction to Colloid and Interface Science and Engineering,103104045,103,Web,false,syllabus/syllabus.php?subjectId=103104045,/courses/103104045
+Introduction to Microelectronic Fabrication Processes,103106075,103,Web,false,syllabus/syllabus.php?subjectId=103106075,/courses/103106075
+Mass Transfer II,103104046,103,Video,false,syllabus/syllabus.php?subjectId=103104046,/courses/103104046/
+Mass Transfer Operations I,103103034,103,Video,false,syllabus/syllabus.php?subjectId=103103034,
+Mass Transfer Operations I,103103035,103,Web,false,syllabus/syllabus.php?subjectId=103103035,/courses/103103035
+Material and Energy Balances,103102017,103,Video,false,syllabus/syllabus.php?subjectId=103102017,
+Material and Energy Balances,103106076,103,Web,false,syllabus/syllabus.php?subjectId=103106076,
+Mechanical Operations,103107090,103,Video,false,syllabus/syllabus.php?subjectId=103107090,
+Mechanical Operations,103107091,103,Web,false,syllabus/syllabus.php?subjectId=103107091,
+Mechanics of Soft Materials,103104047,103,Web,false,syllabus/syllabus.php?subjectId=103104047,/courses/103104047
+Membrane Science and Engineering,103102018,103,Video,false,syllabus/syllabus.php?subjectId=103102018,
+Microscale Transport Processes,103105057,103,Video,false,syllabus/syllabus.php?subjectId=103105057,/courses/103105057/
+Modern Instrumental Methods of Analysis,103108100,103,Video,false,syllabus/syllabus.php?subjectId=103108100,/courses/103108100/
+Molecular Simulations in Chemical Engineering,103103036,103,Web,false,syllabus/syllabus.php?subjectId=103103036,/courses/103103036
+Multicomponent Mass Transfer,103102020,103,Web,false,syllabus/syllabus.php?subjectId=103102020,
+Multiphase Flow,103105058,103,Web,false,syllabus/syllabus.php?subjectId=103105058,/courses/103105058
+Multiphase Flow,103105059,103,Video,false,syllabus/syllabus.php?subjectId=103105059,/courses/103105059/
+Novel Separation Processes,103105060,103,Web,false,syllabus/syllabus.php?subjectId=103105060,/courses/103105060
+Novel Separation Processes,103105061,103,Video,false,syllabus/syllabus.php?subjectId=103105061,/courses/103105061/
+Nuclear Reactor Technology,103106101,103,Web,false,syllabus/syllabus.php?subjectId=103106101,/courses/103106101
+Particle Characterization (PG),103106103,103,Video,false,syllabus/syllabus.php?subjectId=103106103,/courses/103106103/
+Petroleum Refinery Engineering,103102021,103,Video,false,syllabus/syllabus.php?subjectId=103102021,
+Petroleum Refinery Engineering,103102022,103,Web,false,syllabus/syllabus.php?subjectId=103102022,
+Plantwide Control of Chemical Processes,103104049,103,Web,false,syllabus/syllabus.php?subjectId=103104049,
+Plantwide Control of Chemical Processes,103104050,103,Video,false,syllabus/syllabus.php?subjectId=103104050,/courses/103104050/
+Process Control and Instrumentation,103103037,103,Web,false,syllabus/syllabus.php?subjectId=103103037,
+Process Control and Instrumentation,103105064,103,Video,false,syllabus/syllabus.php?subjectId=103105064,/courses/103105064/
+Process Design and Economics,103103107,103,Web,false,syllabus/syllabus.php?subjectId=103103107,
+Process Design Decisions and Project Economics,103103039,103,Video,false,syllabus/syllabus.php?subjectId=103103039,/courses/103103039/
+Process Design of Heat Exchangers ,103106102,103,Video,false,syllabus/syllabus.php?subjectId=103106102,
+Process Integration,103107093,103,Video,false,syllabus/syllabus.php?subjectId=103107093,
+Process Integration,103107094,103,Web,false,syllabus/syllabus.php?subjectId=103107094,/courses/103107094
+Process Modelling and Simulation,103107096,103,Web,false,syllabus/syllabus.php?subjectId=103107096,/courses/103107096
+Process Optimization,103106077,103,Web,false,syllabus/syllabus.php?subjectId=103106077,
+Process Plant Safety,103102023,103,Video,false,syllabus/syllabus.php?subjectId=103102023,
+System (Process) Identification,103106078,103,Web,false,syllabus/syllabus.php?subjectId=103106078,
+Thermodynamics of Polymeric Systems,103101010,103,Web,false,syllabus/syllabus.php?subjectId=103101010,
+Thermodynamics of Polymeric Systems,103101011,103,Video,false,syllabus/syllabus.php?subjectId=103101011,
+Transport Phenomena (UG),103102024,103,Web,false,syllabus/syllabus.php?subjectId=103102024,
+Transport Phenomena (UG),103102025,103,Video,false,syllabus/syllabus.php?subjectId=103102025,
+Advance Analytical Course,104104066,104,Video,false,syllabus/syllabus.php?subjectId=104104066,/courses/104104066/
+Advanced rotational - Vibrational Spectroscopy,,104,Video,true,,
+Bio-inorganic chemistry,,104,Video,true,,
+Bio-organic chemistry,104103018,104,Web,false,syllabus/syllabus.php?subjectId=104103018,/courses/104103018
+Bio-Organic Chemistry of Natural Enediyne Anticancer Antibiotics,104103068,104,Web,false,syllabus/syllabus.php?subjectId=104103068,
+Bio-physical chemistry,,104,Video,true,,
+Bio-physical chemistry,,104,Web,true,,
+Biocatalysis in organic synthesis,104105032,104,Web,false,syllabus/syllabus.php?subjectId=104105032,/courses/104105032
+BioChemistry I,102105034,104,Video,false,video.php?subjectId=102105034,
+Bioinorganic Chemistry - Metalloproteins and their Synthetic Analogues,104108054,104,Video,false,syllabus/syllabus.php?subjectId=104108054,
+Catalytic Asymmetric Synthesis,104103067,104,Web,false,syllabus/syllabus.php?subjectId=104103067,/courses/104103067
+Chemical Bonding and Group Theory,104106044,104,Video,false,syllabus/syllabus.php?subjectId=104106044,
+Chemical Thermodynamics,104101001,104,Web,false,syllabus/syllabus.php?subjectId=104101001,
+Chemistry of Materials,104103019,104,Web,false,syllabus/syllabus.php?subjectId=104103019,
+Chemistry of Materials,/courses/104104011/,104,Video,false,/courses/104104011/,/courses/askaquestion.php?subjectId=104104011
+Co-ordination chemistry (chemistry of transition elements),104105033,104,Video,false,syllabus/syllabus.php?subjectId=104105033,
+Co-ordination chemistry (chemistry of transition elements),104106063,104,Web,false,syllabus/syllabus.php?subjectId=104106063,
+Computational Chemistry,104101002,104,Web,false,syllabus/syllabus.php?subjectId=104101002,
+Electrochemistry,104106045,104,Web,false,syllabus/syllabus.php?subjectId=104106045,
+Environmental chemistry,104103020,104,Web,false,syllabus/syllabus.php?subjectId=104103020,
+Essentials in Immunolgy,104108055,104,Video,false,syllabus/syllabus.php?subjectId=104108055,/courses/104108055/
+Eukaryotic Gene Expression - basics and benefits,104108056,104,Video,false,syllabus/syllabus.php?subjectId=104108056,/courses/104108056/
+Experimental Organic Chemistry,104107053,104,Web,false,syllabus/syllabus.php?subjectId=104107053,
+Experimental Physical Chemistry,104101003,104,Video,false,syllabus/syllabus.php?subjectId=104101003,
+Experimental Physical Chemistry,104101004,104,Web,false,syllabus/syllabus.php?subjectId=104101004,
+Fluorescence Spectroscopy,,104,Video,true,,
+Heterocyclic Chemistry,104105034,104,Video,false,syllabus/syllabus.php?subjectId=104105034,
+Inorganic chemistry (Main group elements),104106046,104,Video,false,syllabus/syllabus.php?subjectId=104106046,
+Introduction to Organometallic Chemistry,104101006,104,Web,false,syllabus/syllabus.php?subjectId=104101006,
+Introductory Inorganic Chemistry,104103069,104,Web,false,syllabus/syllabus.php?subjectId=104103069,/courses/104103069
+Introductory Quantum Chemistry,104108057,104,Video,false,syllabus/syllabus.php?subjectId=104108057,
+Mathematics for Chemistry,104104026,104,Video,false,syllabus/syllabus.php?subjectId=104104026,
+Mathematics for Chemistry,104104027,104,Web,false,syllabus/syllabus.php?subjectId=104104027,
+Mathematics for Chemists,,104,Video,true,,
+Molecular spectroscopy I (Microwave, IR, UV, Visible and Photoelectron),104106047,104,Video,false,syllabus/syllabus.php?subjectId=104106047,
+Organic photochemistry and pericyclic reactions,104105038,104,Video,false,syllabus/syllabus.php?subjectId=104105038,/courses/104105038/
+Organic Reaction Mechanism,104101005,104,Web,false,syllabus/syllabus.php?subjectId=104101005,
+Physical Chemistry II,104101007,104,Web,false,syllabus/syllabus.php?subjectId=104101007,
+Physical Organic Chemistry,104106030,104,Web,false,syllabus/syllabus.php?subjectId=104106030,
+Physical Organic Chemistry,104108059,104,Video,false,syllabus/syllabus.php?subjectId=104108059,
+Polymer Chemistry,104105039,104,Video,false,syllabus/syllabus.php?subjectId=104105039,
+Principles and Application of Electron Paramagnetic Resonance,,104,Video,true,,
+Principles of Nuclear Magnetic Resonance Spectroscopy,104106049,104,Video,false,syllabus/syllabus.php?subjectId=104106049,
+Principles of Organic Synthesis,104103022,104,Web,false,syllabus/syllabus.php?subjectId=104103022,/courses/104103022
+Principles of Organic synthesis,104106050,104,Video,false,syllabus/syllabus.php?subjectId=104106050,
+Principles of surface chemistry and catalysis,104106051,104,Web,false,syllabus/syllabus.php?subjectId=104106051,
+Protein chemistry,104105040,104,Web,false,syllabus/syllabus.php?subjectId=104105040,
+Proteomics,104108060,104,Video,false,syllabus/syllabus.php?subjectId=104108060,
+Rate processes,104105041,104,Video,false,syllabus/syllabus.php?subjectId=104105041,/courses/104105041/
+Reagents and Organic reactions,104103023,104,Web,false,syllabus/syllabus.php?subjectId=104103023,/courses/104103023
+Selected Topics in Co-ordination Chemistry,104106064,104,Web,false,syllabus/syllabus.php?subjectId=104106064,/courses/104106064
+Statistical Mechanics,104101008,104,Web,false,syllabus/syllabus.php?subjectId=104101008,
+Stem Cells : Biology and Biotechnology,104108061,104,Video,false,syllabus/syllabus.php?subjectId=104108061,
+Structure and Functions of Biomolecules,104102016,104,Web,false,syllabus/syllabus.php?subjectId=104102016,/courses/104102016
+Structure and Reactivity in Organometallic Chemistry,104108062,104,Video,false,syllabus/syllabus.php?subjectId=104108062,
+Advance Geotechnological Engineering,/courses/105104132,105,Web,false,/courses/105104132,downloads/105104132/
+Advanced Foundation Engineering,105105039,105,Video,false,syllabus/syllabus.php?subjectId=105105039,
+Advanced Foundation Engineering,105108069,105,Web,false,syllabus/syllabus.php?subjectId=105108069,
+Advanced Geotechnical Engineering,105101001,105,Video,false,syllabus/syllabus.php?subjectId=105101001,
+Advanced Hydraulics,105103021,105,Video,false,syllabus/syllabus.php?subjectId=105103021,/courses/105103021/
+Advanced Hydraulics,105107059,105,Web,false,syllabus/syllabus.php?subjectId=105107059,/courses/105107059
+Advanced Hydrology,105101002,105,Web,false,syllabus/syllabus.php?subjectId=105101002,/courses/105101002
+Advanced Hydrology,105104029,105,Video,false,syllabus/syllabus.php?subjectId=105104029,/courses/105104029/
+Advanced Solid Mechanics,105101003,105,Video,false,syllabus/syllabus.php?subjectId=105101003,
+Advanced Solid Mechanics,105106049,105,Web,false,syllabus/syllabus.php?subjectId=105106049,/courses/105106049
+Advanced Structural Analysis,105106050,105,Video,false,syllabus/syllabus.php?subjectId=105106050,/courses/105106050/
+Advanced Structural Analysis,105107060,105,Web,false,syllabus/syllabus.php?subjectId=105107060,
+Advanced Structural Design,105103022,105,Web,false,syllabus/syllabus.php?subjectId=105103022,
+Advanced Transportation Engineering,105104098,105,Web,false,syllabus/syllabus.php?subjectId=105104098,/courses/105104098
+Analytical Methods for Transportation Engineers,,105,Web,true,,
+Application of Soil Mechanics,105104135,105,Video,false,syllabus/syllabus.php?subjectId=105104135,
+Applied Elasticity for Engineers,105108070,105,Web,false,syllabus/syllabus.php?subjectId=105108070,/courses/105108070
+Civil Engineering - Building materials and Construction,105102088,105,Video,false,syllabus/syllabus.php?subjectId=105102088,video.php?subjectId=105102088
+Composite Materials,105108124,105,Web,false,syllabus/syllabus.php?subjectId=105108124,courses/Webcourse-contents/IISc-BANG/Composite Materials/New_index1.html
+Computational Hydraulics,courses/Webcourse-contents/IISc-BANG/Comp_Hydr/computational-hydraulics.pdf,105,Web,false,courses/Webcourse-contents/IISc-BANG/Comp_Hydr/computational-hydraulics.pdf,
+Concrete Technology,105102012,105,Video,false,syllabus/syllabus.php?subjectId=105102012,
+Concrete Technology,105104030,105,Video,false,syllabus/syllabus.php?subjectId=105104030,
+Construction & Contract management,105102013,105,Video,false,syllabus/syllabus.php?subjectId=105102013,
+Construction Economics & Finance,105102014,105,Video,false,syllabus/syllabus.php?subjectId=105102014,
+Construction Economics & Finance,105103023,105,Web,false,syllabus/syllabus.php?subjectId=105103023,
+Construction Planning and Management,105103093,105,Web,false,syllabus/syllabus.php?subjectId=105103093,courses/Webcourse-contents/IIT- Guwahati/cpm/index.html
+Contaminant Transport in Natural and Manmade Systems,105108071,105,Web,false,syllabus/syllabus.php?subjectId=105108071,
+Continuum Damage Mechanics,105108072,105,Web,false,syllabus/syllabus.php?subjectId=105108072,
+Design of Concrete Structures,105105104,105,Web,false,syllabus/syllabus.php?subjectId=105105104,courses/Webcourse-contents/IIT Kharagpur/Design of Con Struc/New_index1.html
+Design of Hydraulic Structures,105105040,105,Web,false,syllabus/syllabus.php?subjectId=105105040,
+Design of Reinforced Concrete Structures,105105105,105,Video,false,video.php?subjectId=105105105,
+Design of Steel Structures,105103094,105,Video,false,syllabus/syllabus.php?subjectId=105103094,video.php?subjectId=105103094
+Design of Steel Structures I,105106112,105,Web,false,syllabus/syllabus.php?subjectId=105106112,courses/IIT-MADRAS/Design_Steel_Structures_I/index.php
+Design of Steel Structures II,105106113,105,Web,false,syllabus/syllabus.php?subjectId=105106113,courses/IIT-MADRAS/Design_Steel_Structures_II/index.php
+Elements of photogrammetry,105107061,105,Web,false,syllabus/syllabus.php?subjectId=105107061,
+Engineering Geology,105105106,105,Video,false,syllabus/syllabus.php?subjectId=105105106,video.php?subjectId=105105106
+Environmental Air Pollution,105102089,105,Web,false,syllabus/syllabus.php?subjectId=105102089,courses/Webcourse-contents/IIT-Delhi/Environmental Air Pollution/index.htm
+Environmental Air Pollution,105104099,105,Video,false,syllabus/syllabus.php?subjectId=105104099,video.php?subjectId=105104099
+Environmental Management & Impact Assessment,105103024,105,Video,false,syllabus/syllabus.php?subjectId=105103024,
+Environmental quality and pollution monitoring techniques,105104032,105,Video,false,syllabus/syllabus.php?subjectId=105104032,
+Financing Infrastructure Projects,105103133,105,Web,false,syllabus/syllabus.php?subjectId=105103133,
+Finite Element Analysis,105105041,105,Web,false,syllabus/syllabus.php?subjectId=105105041,/courses/105105041
+Finite Element Analysis,105106051,105,Video,false,syllabus/syllabus.php?subjectId=105106051,/courses/105106051/
+Fluid Mechanics,105101082,105,Video,false,syllabus/syllabus.php?subjectId=105101082,/courses/105101082/
+Fluid Mechanics,105103095,105,Web,false,syllabus/syllabus.php?subjectId=105103095,courses/Webcourse-contents/IIT- Guwahati/fluid_mechanics/index.htm
+Foundation Analysis and Design,105104137,105,Web,false,syllabus/syllabus.php?subjectId=105104137,
+Foundation Engineering,105101083,105,Web,false,syllabus/syllabus.php?subjectId=105101083,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Civil Engineering/Foundation_Engineering/Course Objective.html')
+Foundation Engineering,105107120,105,Video,false,syllabus/syllabus.php?subjectId=105107120,video.php?subjectId=105107120
+G.I.S in Civil Engineering,105102015,105,Web,false,syllabus/syllabus.php?subjectId=105102015,
+Geo-environmental Engineering,105103025,105,Web,false,syllabus/syllabus.php?subjectId=105103025,/courses/105103025
+Geo-informatics in Transportation Engineering,105108073,105,Web,false,syllabus/syllabus.php?subjectId=105108073,/courses/105108073
+Geosynthetics and Reinforced Soil Structures,105106052,105,Video,false,syllabus/syllabus.php?subjectId=105106052,/courses/105106052/
+Geotechnical Earthquake Engineering,105101134,105,Video,false,syllabus/syllabus.php?subjectId=105101134,
+Geotechnical Earthquake Engineering,105104136,105,Web,false,syllabus/syllabus.php?subjectId=105104136,
+Geotechnical Earthquake Engineering,105108074,105,Web,false,syllabus/syllabus.php?subjectId=105108074,/courses/105108074
+Geotechnical Measuements & Explorations,105104131,105,Video,false,syllabus/syllabus.php?subjectId=105104131,/courses/105104131/
+Global Positioning System,105107062,105,Web,false,syllabus/syllabus.php?subjectId=105107062,
+Ground Improvement Techniques,105104034,105,Web,false,syllabus/syllabus.php?subjectId=105104034,/courses/105104034
+Ground Improvement Techniques,105108075,105,Video,false,syllabus/syllabus.php?subjectId=105108075,/courses/105108075/
+Ground Water Hydrology,105103026,105,Web,false,syllabus/syllabus.php?subjectId=105103026,
+Ground Water Hydrology,105105042,105,Video,false,syllabus/syllabus.php?subjectId=105105042,
+Hydraulics,105103096,105,Video,false,syllabus/syllabus.php?subjectId=105103096,video.php?subjectId=105103096
+Hydraulics,105106114,105,Web,false,syllabus/syllabus.php?subjectId=105106114,courses/IIT-MADRAS/Hydraulics/index.php
+Hydrological Measurements and Analysis of Data,105107129,105,Web,false,syllabus/syllabus.php?subjectId=105107129,/courses/105107129
+Infrastructure Planning and Management,105106115,105,Web,false,syllabus/syllabus.php?subjectId=105106115,courses/IIT-MADRAS/Infrastructure_Planning_Management/index.php
+Introduction to Earthquake Engineering,105101004,105,Web,false,syllabus/syllabus.php?subjectId=105101004,/courses/105101004
+Introduction to Earthquake Engineering,105102016,105,Video,false,syllabus/syllabus.php?subjectId=105102016,
+Introduction to Engineering Seismology,105108076,105,Web,false,syllabus/syllabus.php?subjectId=105108076,/courses/105108076
+Introduction to Transportation Engineering,105105107,105,Video,false,syllabus/syllabus.php?subjectId=105105107,video.php?subjectId=105105107
+Mechanics of Solids,courses/Webcourse-contents/IIT-Delhi/Mechanics Of Solids/index.htm,105,Web,false,courses/Webcourse-contents/IIT-Delhi/Mechanics Of Solids/index.htm,
+Mechanics of solids,105106116,105,Video,false,video.php?subjectId=105106116,
+Modern Construction Materials,105106053,105,Video,false,syllabus/syllabus.php?subjectId=105106053,/courses/105106053/
+Modern Construction Materials,105107063,105,Web,false,syllabus/syllabus.php?subjectId=105107063,
+Modern Surveying Techniques,105104100,105,Web,false,syllabus/syllabus.php?subjectId=105104100,courses/Webcourse-contents/IIT-KANPUR/ModernSurveyingTech/ui/About-Faculty.HTML
+Modern Surveying Techniques,105107121,105,Video,false,video.php?subjectId=105107121,
+Numerical Methods in Civil Engineering,105105043,105,Video,false,syllabus/syllabus.php?subjectId=105105043,/courses/105105043/
+Optimization Methods,105108127,105,Web,false,syllabus/syllabus.php?subjectId=105108127,courses/Webcourse-contents/IISc-BANG/OPTIMIZATION METHODS/New_index1.html
+Pavement Design,105105044,105,Video,false,syllabus/syllabus.php?subjectId=105105044,
+Pavement Design,105107064,105,Web,false,syllabus/syllabus.php?subjectId=105107064,
+Physico Chemical processes in aquatic environments,105104035,105,Video,false,syllabus/syllabus.php?subjectId=105104035,
+Pre-stressed Concrete Structures,105106117,105,Web,false,syllabus/syllabus.php?subjectId=105106117,courses/IIT-MADRAS/PreStressed_Concrete_Structures/index.php
+Pre-stressed Concrete Structures,105106118,105,Video,false,syllabus/syllabus.php?subjectId=105106118,video.php?subjectId=105106118
+Probability Methods in Civil Engineering,105103027,105,Web,false,syllabus/syllabus.php?subjectId=105103027,/courses/105103027
+Probability Methods in Civil Engineering,105105045,105,Video,false,syllabus/syllabus.php?subjectId=105105045,/courses/105105045/
+Probability Methods in Civil Engineering,105105138,105,Web,false,syllabus/syllabus.php?subjectId=105105138,
+Project Planning & Control,105106054,105,Video,false,syllabus/syllabus.php?subjectId=105106054,
+Reliability Engineering,courses/Webcourse-contents/IISc-BANG/Reliability Engg/New_index1.html,105,Web,false,courses/Webcourse-contents/IISc-BANG/Reliability Engg/New_index1.html,
+Remote Sensing,105107065,105,Web,false,syllabus/syllabus.php?subjectId=105107065,
+Remote Sensing,105108077,105,Web,false,syllabus/syllabus.php?subjectId=105108077,
+Rock Mechanics,105106055,105,Web,false,syllabus/syllabus.php?subjectId=105106055,
+Site Characterisation & Instrumentation,105108078,105,Web,false,syllabus/syllabus.php?subjectId=105108078,
+Site Characterization and instrumentation,105105046,105,Web,false,syllabus/syllabus.php?subjectId=105105046,
+Soil Dynamics,105101005,105,Video,false,syllabus/syllabus.php?subjectId=105101005,/courses/105101005/
+Soil Dynamics,105107066,105,Web,false,syllabus/syllabus.php?subjectId=105107066,
+Soil Mechanics,105101084,105,Video,false,syllabus/syllabus.php?subjectId=105101084,/courses/105101084/
+Soil Mechanics,105103097,105,Web,false,syllabus/syllabus.php?subjectId=105103097,courses/Webcourse-contents/IIT- Guwahati/soil_mech/index.htm
+Solid & Hazardous Waste Management,105102018,105,Video,false,syllabus/syllabus.php?subjectId=105102018,
+Solid & Hazardous Waste Management,105106056,105,Web,false,syllabus/syllabus.php?subjectId=105106056,
+Stochastic Hydrology,105108079,105,Video,false,syllabus/syllabus.php?subjectId=105108079,/courses/105108079/
+Stochastic Structural Dynamics,105108080,105,Video,false,syllabus/syllabus.php?subjectId=105108080,/courses/105108080/
+Strength of Materials,105105108,105,Video,false,syllabus/syllabus.php?subjectId=105105108,video.php?subjectId=105105108
+Structural Analysis I,105101085,105,Web,false,syllabus/syllabus.php?subjectId=105101085,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Civil%20Engineering/Structural%20Mechanic%20II/Course%20Objective.html')
+Structural Analysis II,105101086,105,Video,false,syllabus/syllabus.php?subjectId=105101086,/courses/105101086/
+Structural Analysis II,105105109,105,Web,false,syllabus/syllabus.php?subjectId=105105109,courses/Webcourse-contents/IIT Kharagpur/Structural Analysis/New_index1.html
+Structural Dynamics,105101006,105,Video,false,syllabus/syllabus.php?subjectId=105101006,/courses/105101006/
+Structural Dynamics,105106057,105,Web,false,syllabus/syllabus.php?subjectId=105106057,
+Structural Reliability,105101007,105,Video,false,syllabus/syllabus.php?subjectId=105101007,
+Surveying,105104101,105,Video,false,syllabus/syllabus.php?subjectId=105104101,video.php?subjectId=105104101
+Surveying,105107122,105,Web,false,syllabus/syllabus.php?subjectId=105107122,courses/Webcourse-contents/IIT-ROORKEE/SURVEYING/home.htm
+Traffic Engineering & Management,105101008,105,Web,false,syllabus/syllabus.php?subjectId=105101008,/courses/105101008
+Traffic Engineering & Management,105102019,105,Video,false,syllabus/syllabus.php?subjectId=105102019,
+Transportation Economics,105103028,105,Web,false,syllabus/syllabus.php?subjectId=105103028,
+Transportation Economics,105105047,105,Video,false,syllabus/syllabus.php?subjectId=105105047,
+Transportation Engineering I,105101087,105,Web,false,syllabus/syllabus.php?subjectId=105101087,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Civil%20Engineering/Transportation%20Engg%20I/CourseObjective.html')
+Transportation Engineering II,105107123,105,Video,false,syllabus/syllabus.php?subjectId=105107123,video.php?subjectId=105107123
+Transportation Network Modeling,105101009,105,Video,false,syllabus/syllabus.php?subjectId=105101009,
+Unsaturated Soil Mechanics,105103139,105,Web,false,syllabus/syllabus.php?subjectId=105103139,
+Urban transportation planning,105106058,105,Video,false,syllabus/syllabus.php?subjectId=105106058,/courses/105106058/
+Urban transportation planning,105107067,105,Web,false,syllabus/syllabus.php?subjectId=105107067,
+Wastewater management,105105048,105,Web,false,syllabus/syllabus.php?subjectId=105105048,/courses/105105048
+Water and Waste Water Engineering,105104102,105,Web,false,syllabus/syllabus.php?subjectId=105104102,courses/Webcourse-contents/IIT-KANPUR/wasteWater/index.htm
+Water and Waste Water Engineering,105106119,105,Video,false,syllabus/syllabus.php?subjectId=105106119,video.php?subjectId=105106119
+Water Resources Engineering,105104103,105,Video,false,syllabus/syllabus.php?subjectId=105104103,video.php?subjectId=105104103
+Water Resources Engineering,105105110,105,Web,false,syllabus/syllabus.php?subjectId=105105110,courses/Webcourse-contents/IIT Kharagpur/Water Resource Engg/New_index1.html
+Water Resources Systems : Modeling Techniques and Analysis,105108130,105,Video,false,syllabus/syllabus.php?subjectId=105108130,/courses/105108130/
+Water Resources Systems Planning and Management,105108081,105,Web,false,syllabus/syllabus.php?subjectId=105108081,/courses/105108081
+Watershed Management,105101010,105,Video,false,syllabus/syllabus.php?subjectId=105101010,/courses/105101010/
+Watershed Management,105107068,105,Web,false,syllabus/syllabus.php?subjectId=105107068,
+Advanced Computer Graphics,106101001,106,Video,false,syllabus/syllabus.php?subjectId=106101001,
+Artificial Intelligence,106105077,106,Video,false,syllabus/syllabus.php?subjectId=106105077,video.php?subjectId=106105077
+Artificial Intelligence,106105078,106,Web,false,syllabus/syllabus.php?subjectId=106105078,courses/Webcourse-contents/IIT Kharagpur/Artificial intelligence/New_index1.html
+Artificial Intelligence(Prof.P.Dasgupta),106105079,106,Video,false,video.php?subjectId=106105079,
+Bioinformatics,106104018,106,Web,false,syllabus/syllabus.php?subjectId=106104018,
+Biometrics,/courses/106104119/,106,Video,false,/courses/106104119/,downloads/106104119/
+CAD for VLSI Design I,106106088,106,Web,false,syllabus/syllabus.php?subjectId=106106088,courses/IIT-MADRAS/CAD_for_VLSI_Design_I/index.php
+CAD for VLSI Design II,courses/IIT-MADRAS/CAD_for_VLSI_Design_II/index.php,106,Web,false,courses/IIT-MADRAS/CAD_for_VLSI_Design_II/index.php,
+Combinatorics,106108051,106,Video,false,syllabus/syllabus.php?subjectId=106108051,
+Compiler Design,106104072,106,Web,false,syllabus/syllabus.php?subjectId=106104072,courses/Webcourse-contents/IIT-KANPUR/compiler-desing/ui/About-Faculty.html
+Compiler Design,106108052,106,Video,false,syllabus/syllabus.php?subjectId=106108052,/courses/106108052/
+Computational Geometry,/courses/106102011/,106,Video,false,/courses/106102011/,downloads/106102011/
+Computational Number Theory & Cryptography,106103015,106,Web,false,syllabus/syllabus.php?subjectId=106103015,/courses/106103015
+Computer Algorithms - 2,106104019,106,Video,false,syllabus/syllabus.php?subjectId=106104019,/courses/106104019/
+Computer Architecture,106102062,106,Video,false,video.php?subjectId=106102062,
+Computer Graphics,106102063,106,Web,false,syllabus/syllabus.php?subjectId=106102063,courses/Webcourse-contents/IIT-Delhi/Computer Graphics/csmain.htm
+Computer Graphics,106106090,106,Video,false,syllabus/syllabus.php?subjectId=106106090,video.php?subjectId=106106090
+Computer Networks,106105080,106,Web,false,syllabus/syllabus.php?subjectId=106105080,courses/Webcourse-contents/IIT Kharagpur/Computer networks/New_index1.html
+Computer Networks,106105081,106,Video,false,syllabus/syllabus.php?subjectId=106105081,video.php?subjectId=106105081
+Computer Networks,courses/IIT-MADRAS/Computer_Networks/index.php,106,Web,false,courses/IIT-MADRAS/Computer_Networks/index.php,
+Computer Organisation and Architecture,106104073,106,Web,false,syllabus/syllabus.php?subjectId=106104073,courses/Webcourse-contents/IIT-KANPUR/CompArchitecture/page1.htm
+Computer Organization,106106092,106,Video,false,video.php?subjectId=106106092,
+Computer Organization and Architecture,106103068,106,Web,false,syllabus/syllabus.php?subjectId=106103068,courses/Webcourse-contents/IIT- Guwahati/comp_org_arc/web/index.htm
+Computer Security and Cryptography - I,106101004,106,Video,false,syllabus/syllabus.php?subjectId=106101004,
+Cryptography and Network Security,106105031,106,Video,false,syllabus/syllabus.php?subjectId=106105031,/courses/106105031/
+Data Communication,106105082,106,Video,false,syllabus/syllabus.php?subjectId=106105082,video.php?subjectId=106105082
+Data Communications,106108098,106,Web,false,syllabus/syllabus.php?subjectId=106108098,courses/Webcourse-contents/IISc-BANG/Data Communication/Learning Material - DataCommunication.pdf
+Data Structures And Algorithms,106102064,106,Video,false,syllabus/syllabus.php?subjectId=106102064,video.php?subjectId=106102064
+Data Structures and Program Methodology,106103069,106,Web,false,syllabus/syllabus.php?subjectId=106103069,courses/Webcourse-contents/IIT- Guwahati/data_str_algo/frameset.htm
+Database Design,106106093,106,Video,false,syllabus/syllabus.php?subjectId=106106093,video.php?subjectId=106106093
+Design and Analysis of Algorithms,106101059,106,Web,false,syllabus/syllabus.php?subjectId=106101059,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Computer%20Science/Design%20and%20Analysis%20of%20Algorithms/Course%20Objectives.html')
+Design and Analysis of Algorithms,/courses/106101060/,106,Video,false,/courses/106101060/,
+Design Verification and Test of Digital VLSI Circuits,106103116,106,Video,false,syllabus/syllabus.php?subjectId=106103116,/courses/106103116/
+Digital Image Processing,106105032,106,Web,false,syllabus/syllabus.php?subjectId=106105032,/courses/106105032
+Digital Systems,106108099,106,Web,false,syllabus/syllabus.php?subjectId=106108099,courses/Webcourse-contents/IISc-BANG/Digital Systems/Digital Systems.pdf
+Discrete Mathematical Structures,106106094,106,Video,false,syllabus/syllabus.php?subjectId=106106094,video.php?subjectId=106106094
+Distributed Computing Systems,106106107,106,Web,false,syllabus/syllabus.php?subjectId=106106107,
+Electronic Design Automation,106105083,106,Video,false,video.php?subjectId=106105083,
+Game Theory,106108053,106,Video,false,syllabus/syllabus.php?subjectId=106108053,
+Graph Theory,106108054,106,Video,false,syllabus/syllabus.php?subjectId=106108054,/courses/106108054/
+Grid Computing,106106040,106,Web,false,syllabus/syllabus.php?subjectId=106106040,
+High Performance Computer Architecture,106105033,106,Video,false,syllabus/syllabus.php?subjectId=106105033,/courses/106105033/
+High Performance Computing,106108055,106,Video,false,syllabus/syllabus.php?subjectId=106108055,/courses/106108055/
+Human-Computer Interaction,106103115,106,Web,false,syllabus/syllabus.php?subjectId=106103115,/courses/106103115
+Indexing and Searching Techniques in Databases,106104021,106,Web,false,syllabus/syllabus.php?subjectId=106104021,/courses/106104021
+Internet Technology,106105084,106,Video,false,syllabus/syllabus.php?subjectId=106105084,video.php?subjectId=106105084
+Introduction to Cognitive Science,106104022,106,Video,false,syllabus/syllabus.php?subjectId=106104022,
+Introduction to Computer Graphics,106102065,106,Video,false,syllabus/syllabus.php?subjectId=106102065,video.php?subjectId=106102065
+Introduction to Database Systems and Design,106106095,106,Web,false,syllabus/syllabus.php?subjectId=106106095,courses/IIT-MADRAS/Intro_to_Database_Systems_Design/index.php
+Introduction To Optimization,106106108,106,Web,false,syllabus/syllabus.php?subjectId=106106108,
+Introduction to Problem Solving and Programming,106102066,106,Web,false,syllabus/syllabus.php?subjectId=106102066,courses/Webcourse-contents/IIT-Delhi/intro to CS/new-slides.pdf
+Introduction to Problem Solving and Programming,106104074,106,Video,false,syllabus/syllabus.php?subjectId=106104074,video.php?subjectId=106104074
+Introduction to Programming,106101006,106,Video,false,syllabus/syllabus.php?subjectId=106101006,
+Logic for CS,/courses/106102013/,106,Video,false,/courses/106102013/,/courses/askaquestion.php?subjectId=106102013
+Low Power VLSI Circuits & Systems,106105034,106,Video,false,syllabus/syllabus.php?subjectId=106105034,/courses/106105034/
+Microprocessors and Microcontrollers,106108100,106,Web,false,syllabus/syllabus.php?subjectId=106108100,courses/Webcourse-contents/IISc-BANG/Microprocessors and Microcontrollers/New_index1.html
+Mobile Computing,106104023,106,Web,false,syllabus/syllabus.php?subjectId=106104023,
+Natural Language Processing,106101007,106,Video,false,syllabus/syllabus.php?subjectId=106101007,/courses/106101007/
+Numerical Optimization,106108056,106,Video,false,syllabus/syllabus.php?subjectId=106108056,/courses/106108056/
+Object Computing,106106110,106,Web,false,syllabus/syllabus.php?subjectId=106106110,
+Object Computing,106106111,106,Video,false,syllabus/syllabus.php?subjectId=106106111,
+Operating System,106107050,106,Video,false,syllabus/syllabus.php?subjectId=106107050,
+Operating Systems,106108101,106,Web,false,syllabus/syllabus.php?subjectId=106108101,courses/Webcourse-contents/IISc-BANG/Operating Systems/New_index1.html
+Parallel Algorithms,106106112,106,Video,false,syllabus/syllabus.php?subjectId=106106112,
+Parallel Computer Architecture,106104024,106,Web,false,syllabus/syllabus.php?subjectId=106104024,/courses/106104024
+Parallel Computing,,106,Video,true,,
+Pattern Recognition,106106046,106,Video,false,syllabus/syllabus.php?subjectId=106106046,
+Pattern Recognition,106106047,106,Web,false,syllabus/syllabus.php?subjectId=106106047,
+Pattern Recognition,106108057,106,Web,false,syllabus/syllabus.php?subjectId=106108057,/courses/106108057
+Performance Evaluation of Computer Systems,106106048,106,Video,false,syllabus/syllabus.php?subjectId=106106048,/courses/106106048/
+Principles of Communication,courses/IIT-MADRAS/Principles_Of_Communication/index.php,106,Web,false,courses/IIT-MADRAS/Principles_Of_Communication/index.php,
+Principles of Compiler Design,106108113,106,Video,false,syllabus/syllabus.php?subjectId=106108113,
+Principles of Programming Languages,106102067,106,Video,false,syllabus/syllabus.php?subjectId=106102067,video.php?subjectId=106102067
+Program Optimization for Multi-core Architectures,106104025,106,Web,false,syllabus/syllabus.php?subjectId=106104025,/courses/106104025
+Programming and Data Structure,106105085,106,Video,false,video.php?subjectId=106105085,
+Real Time Systems,106105036,106,Video,false,syllabus/syllabus.php?subjectId=106105036,/courses/106105036/
+Real Time Systems,106105086,106,Web,false,syllabus/syllabus.php?subjectId=106105086,courses/Webcourse-contents/IIT Kharagpur/Real time system/New_index1.html
+Riemann Hypothesis and its Applications,106104118,106,Video,false,syllabus/syllabus.php?subjectId=106104118,
+Self-Stabilizing Distributed Algorithms,106103117,106,Web,false,syllabus/syllabus.php?subjectId=106103117,
+Software Architecture and Design,106104027,106,Web,false,syllabus/syllabus.php?subjectId=106104027,
+Software Engineering,106101061,106,Video,false,syllabus/syllabus.php?subjectId=106101061,/courses/106101061/
+Software Engineering,106105087,106,Web,false,syllabus/syllabus.php?subjectId=106105087,courses/Webcourse-contents/IIT Kharagpur/Soft Engg/New_index1.html
+Storage Systems,106108058,106,Video,false,syllabus/syllabus.php?subjectId=106108058,
+System Analysis and Design,106108102,106,Video,false,syllabus/syllabus.php?subjectId=106108102,video.php?subjectId=106108102
+System Analysis and Design,106108103,106,Web,false,syllabus/syllabus.php?subjectId=106108103,courses/Webcourse-contents/IISc-BANG/System Analysis and Design/New_index1.html
+Theory of Automata and Formal Languages,106103070,106,Web,false,syllabus/syllabus.php?subjectId=106103070,courses/Webcourse-contents/IIT- Guwahati/afl/index.htm
+Theory of Automata, Formal Languages and Computation,106106049,106,Video,false,syllabus/syllabus.php?subjectId=106106049,/courses/106106049/
+Theory of Computation,106104028,106,Video,false,syllabus/syllabus.php?subjectId=106104028,/courses/106104028/
+VLSI Design Verification and Test,106103016,106,Web,false,syllabus/syllabus.php?subjectId=106103016,/courses/106103016
+Color in Design,109104075,107,Web,false,syllabus/syllabus.php?subjectId=109104075,/courses/109104075
+Creative Engineering Design,107108010,107,Web,false,syllabus/syllabus.php?subjectId=107108010,
+Design for Manufacture and Assembly(DFMA) for Industrial Design,107103012,107,Web,false,syllabus/syllabus.php?subjectId=107103012,
+Design fundamentals,107103002,107,Web,false,syllabus/syllabus.php?subjectId=107103002,/courses/107103002
+Design Paradigm: Source Of Innovation & Invention,107104076,107,Web,false,syllabus/syllabus.php?subjectId=107104076,/courses/107104076
+Design Philosophy & History,107104078,107,Web,false,syllabus/syllabus.php?subjectId=107104078,
+Ergonomics for beginners: Industrial design perspective,107103004,107,Video,false,syllabus/syllabus.php?subjectId=107103004,/courses/107103004/
+Material Processes for Industrial Designers,,107,Video,true,,
+Methodology for Design Research,107108011,107,Web,false,syllabus/syllabus.php?subjectId=107108011,
+Principles of Engineering System Design,107106009,107,Video,false,syllabus/syllabus.php?subjectId=107106009,
+Product Design - modeling and simulation,,107,Video,true,,
+Traditional Indian Art,,107,Web,true,,
+Visual Communication,107101001,107,Web,false,syllabus/syllabus.php?subjectId=107101001,
+Advanced Control Systems,108103007,108,Video,false,syllabus/syllabus.php?subjectId=108103007,/courses/108103007/
+Advanced Electric Drives,108104011,108,Video,false,syllabus/syllabus.php?subjectId=108104011,/courses/108104011/
+Advanced Power Electronics,108102006,108,Web,false,syllabus/syllabus.php?subjectId=108102006,
+Advanced Power Electronics,,108,Web,true,,
+An Introduction to Electronics Systems Packaging,108108031,108,Video,false,syllabus/syllabus.php?subjectId=108108031,/courses/108108031/
+Analog ICs,108106068,108,Video,false,video.php?subjectId=108106068,
+Basic Electrical Technology,108105053,108,Web,false,syllabus/syllabus.php?subjectId=108105053,courses/Webcourse-contents/IIT Kharagpur/Basic Electrical Technology/New_index1.html
+Basic Electrical Technology,108108076,108,Video,false,syllabus/syllabus.php?subjectId=108108076,video.php?subjectId=108108076
+Chaos, Fractals & Dynamic Systems,108105054,108,Video,false,video.php?subjectId=108105054,
+Circuit Theory,108102042,108,Video,false,syllabus/syllabus.php?subjectId=108102042,video.php?subjectId=108102042
+Computer Aided Power System Analysis,108105016,108,Video,false,syllabus/syllabus.php?subjectId=108105016,
+Computer Aided Power System Analysis,108107028,108,Web,false,syllabus/syllabus.php?subjectId=108107028,/courses/108107028
+Computer Control of Power Systems,108108032,108,Video,false,syllabus/syllabus.php?subjectId=108108032,
+Control Engineering,108101037,108,Video,false,syllabus/syllabus.php?subjectId=108101037,/courses/108101037/
+Control Engineering,108102043,108,Video,false,syllabus/syllabus.php?subjectId=108102043,video.php?subjectId=108102043
+Control Engineering,108102044,108,Web,false,syllabus/syllabus.php?subjectId=108102044,courses/Webcourse-contents/IIT-Delhi/Control system design n principles/index.htm
+Digital Control System,108103008,108,Web,false,syllabus/syllabus.php?subjectId=108103008,/courses/108103008
+Digital Integrated Circuits,108106069,108,Video,false,video.php?subjectId=108106069,
+Digital Signal Processing,108105055,108,Video,false,video.php?subjectId=108105055,
+Dynamics of Physical Systems,108105056,108,Video,false,video.php?subjectId=108105056,
+EHV Power Transmission Engineering,108108033,108,Web,false,syllabus/syllabus.php?subjectId=108108033,
+Electrical Insulation in Power Apparatus & Systems,108104012,108,Video,false,syllabus/syllabus.php?subjectId=108104012,
+Electrical Insulation in Power Apparatus and Systems,108106021,108,Web,false,syllabus/syllabus.php?subjectId=108106021,
+Electrical Machines -I,108105017,108,Video,false,syllabus/syllabus.php?subjectId=108105017,/courses/108105017/
+Electrical Machines -II,108105018,108,Video,false,syllabus/syllabus.php?subjectId=108105018,
+Electrical Machines I,108106071,108,Web,false,syllabus/syllabus.php?subjectId=108106071,courses/IIT-MADRAS/Electrical_Machines_I/index.php
+Electrical Machines II,108106072,108,Web,false,syllabus/syllabus.php?subjectId=108106072,courses/IIT-MADRAS/Electrical_Machines_II/index.php
+Electromagnetic Fields,108106073,108,Video,false,syllabus/syllabus.php?subjectId=108106073,video.php?subjectId=108106073
+Embedded Systems,108102045,108,Video,false,syllabus/syllabus.php?subjectId=108102045,video.php?subjectId=108102045
+Embedded Systems,108105057,108,Web,false,syllabus/syllabus.php?subjectId=108105057,courses/Webcourse-contents/IIT Kharagpur/Embedded systems/New_index1.html
+Energy Management Systems and SCADA,108106022,108,Web,false,syllabus/syllabus.php?subjectId=108106022,
+Energy Resources & Technology,108105058,108,Video,false,video.php?subjectId=108105058,
+Estimation of Signals and Systems,108105059,108,Video,false,video.php?subjectId=108105059,
+High Voltage DC Transmission,108104013,108,Video,false,syllabus/syllabus.php?subjectId=108104013,/courses/108104013/
+High Voltage Engineering,108104048,108,Web,false,syllabus/syllabus.php?subjectId=108104048,courses/Webcourse-contents/IIT-KANPUR/HighVoltageEngg/ui/About-Faculty.html
+Illumination Engineering,108105060,108,Video,false,syllabus/syllabus.php?subjectId=108105060,video.php?subjectId=108105060
+Illumination Engineering,108105061,108,Web,false,syllabus/syllabus.php?subjectId=108105061,courses/Webcourse-contents/IIT Kharagpur/Illumination Engg/New_index1.html
+Industrial Automation and Control,108105062,108,Video,false,syllabus/syllabus.php?subjectId=108105062,video.php?subjectId=108105062
+Industrial Automation and Control,108105063,108,Web,false,syllabus/syllabus.php?subjectId=108105063,courses/Webcourse-contents/IIT Kharagpur/Industrial Automation control/New_index1.html
+Industrial Drives,108102046,108,Web,false,syllabus/syllabus.php?subjectId=108102046,courses/Webcourse-contents/IIT-Delhi/Industrial Drives/index.htm
+Industrial Drives - Power Electronics,108108077,108,Video,false,syllabus/syllabus.php?subjectId=108108077,video.php?subjectId=108108077
+Industrial Instrumentation,108105064,108,Video,false,syllabus/syllabus.php?subjectId=108105064,video.php?subjectId=108105064
+Industrial Instrumentation,108106074,108,Web,false,syllabus/syllabus.php?subjectId=108106074,courses/IIT-MADRAS/Industrial_Instrumentation/index.php
+Intelligent Systems and Control,108104049,108,Video,false,syllabus/syllabus.php?subjectId=108104049,video.php?subjectId=108104049
+Introduction to Hybrid and Electric Vehicles,108103009,108,Web,false,syllabus/syllabus.php?subjectId=108103009,/courses/108103009
+Microprocessor,,108,Web,true,,
+Modeling and Analysis of Electric Machines,108101001,108,Web,false,syllabus/syllabus.php?subjectId=108101001,
+Modelling and Analysis of Electric Machines,108106023,108,Video,false,syllabus/syllabus.php?subjectId=108106023,
+Networks and Systems,108106075,108,Video,false,video.php?subjectId=108106075,
+Networks Signals and Systems,108105065,108,Video,false,video.php?subjectId=108105065,
+Non-Conventional Energy Systems,108108078,108,Web,false,syllabus/syllabus.php?subjectId=108108078,courses/Webcourse-contents/IISc-BANG/Non-Conventional Energy Systems/New_index1.html
+Nonlinear Control System,108106024,108,Web,false,syllabus/syllabus.php?subjectId=108106024,/courses/108106024
+Nonlinear Dynamical Systems,108101002,108,Video,false,syllabus/syllabus.php?subjectId=108101002,
+Numerical Analysis,108108079,108,Web,false,syllabus/syllabus.php?subjectId=108108079,courses/Webcourse-contents/IISc-BANG/Numerical Analysis/New_index1.html
+Optimal Control,108105019,108,Video,false,syllabus/syllabus.php?subjectId=108105019,/courses/108105019/
+Power Electronic Applications in Power Systems,108104014,108,Web,false,syllabus/syllabus.php?subjectId=108104014,
+Power Electronics,108101038,108,Video,false,syllabus/syllabus.php?subjectId=108101038,/courses/108101038/
+Power Electronics,108105066,108,Web,false,syllabus/syllabus.php?subjectId=108105066,courses/Webcourse-contents/IIT Kharagpur/Power Electronics/New_index1.html
+Power Electronics and Distributed Generation,108108034,108,Video,false,syllabus/syllabus.php?subjectId=108108034,
+Power Electronics Applications to Power Systems,108101003,108,Video,false,syllabus/syllabus.php?subjectId=108101003,
+Power Quality in Power Distribution Systems,108106025,108,Web,false,syllabus/syllabus.php?subjectId=108106025,/courses/108106025
+Power System Analysis,108105067,108,Video,false,syllabus/syllabus.php?subjectId=108105067,video.php?subjectId=108105067
+Power System Dynamics,108102080,108,Video,false,video.php?subjectId=108102080,
+Power System Dynamics and Control,108101004,108,Video,false,syllabus/syllabus.php?subjectId=108101004,/courses/108101004/
+Power System Generation, Transmission and Distribution (Encapsulated from earlier Video),108102047,108,Video,false,video.php?subjectId=108102047,
+Power System Protection,108101039,108,Web,false,syllabus/syllabus.php?subjectId=108101039,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Electrical%20Engineering/Power%20System%20Protection/Course%20Objective.html')
+Power System Stability and Control,108106026,108,Web,false,syllabus/syllabus.php?subjectId=108106026,/courses/108106026
+Power Systems Analysis,108104051,108,Web,false,syllabus/syllabus.php?subjectId=108104051,courses/Webcourse-contents/IIT-KANPUR/power-system/ui/About-Faculty.html
+Power Systems Operation and Control,108101040,108,Web,false,syllabus/syllabus.php?subjectId=108101040,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Electrical%20Engineering/Power%20System%20Operation%20and%20Control/Course%20Objective.html')
+Power Systems Operation and Control,108104052,108,Video,false,syllabus/syllabus.php?subjectId=108104052,video.php?subjectId=108104052
+Process Monitoring and Fault Diagnosis,108105020,108,Video,false,syllabus/syllabus.php?subjectId=108105020,
+Pulse width Modulation for Power Electronic Converters,108108035,108,Video,false,syllabus/syllabus.php?subjectId=108108035,
+Restructured Power Systems,108101005,108,Web,false,syllabus/syllabus.php?subjectId=108101005,/courses/108101005
+Switched Mode Power Conversion,108104015,108,Web,false,syllabus/syllabus.php?subjectId=108104015,
+Switched Mode Power Conversion,108108036,108,Video,false,syllabus/syllabus.php?subjectId=108108036,/courses/108108036/
+Aspects of Western Philosophy,109106051,109,Web,false,syllabus/syllabus.php?subjectId=109106051,
+Aspects of Western Philosophy,109106052,109,Video,false,syllabus/syllabus.php?subjectId=109106052,
+Basic Psychological Processes,109104027,109,Video,false,syllabus/syllabus.php?subjectId=109104027,
+Basic Psychological Processes,109104028,109,Web,false,syllabus/syllabus.php?subjectId=109104028,
+Better Spoken English,109106067,109,Video,false,syllabus/syllabus.php?subjectId=109106067,/courses/109106067/
+Biological Bases of Behavior,109104029,109,Web,false,syllabus/syllabus.php?subjectId=109104029,/courses/109104029
+Communication Skills,109104030,109,Web,false,syllabus/syllabus.php?subjectId=109104030,
+Communication Skills,109104031,109,Video,false,syllabus/syllabus.php?subjectId=109104031,
+Consumer Psychology,109101001,109,Video,false,syllabus/syllabus.php?subjectId=109101001,
+Contemporary Indian Philosophy,109101002,109,Web,false,syllabus/syllabus.php?subjectId=109101002,
+Contemporary Issues in Philosophy of Mind & Cognition,109101003,109,Web,false,syllabus/syllabus.php?subjectId=109101003,/courses/109101003
+Contemporary Issues in Philosophy of Mind & Cognition,109101004,109,Video,false,syllabus/syllabus.php?subjectId=109101004,/courses/109101004/
+Contemporary Literature,109106053,109,Video,false,syllabus/syllabus.php?subjectId=109106053,/courses/109106053/
+Contemporary Literature,109106054,109,Web,false,syllabus/syllabus.php?subjectId=109106054,/courses/109106054
+Contemporary Philosophy,109106056,109,Web,false,syllabus/syllabus.php?subjectId=109106056,
+Cultural Studies,109103018,109,Web,false,syllabus/syllabus.php?subjectId=109103018,/courses/109103018
+Cultural Studies,109103019,109,Video,false,syllabus/syllabus.php?subjectId=109103019,/courses/109103019/
+Development, Technology and Global Order,109101006,109,Web,false,syllabus/syllabus.php?subjectId=109101006,
+Development, Technology and Global Order,,109,Video,true,,
+English Language and Literature,109103020,109,Video,false,syllabus/syllabus.php?subjectId=109103020,
+Ethics,109104032,109,Video,false,syllabus/syllabus.php?subjectId=109104032,
+Ethics,109104033,109,Web,false,syllabus/syllabus.php?subjectId=109104033,
+Exploring Human Values: Visions of  Happiness and Perfect Society,109104068,109,Web,false,syllabus/syllabus.php?subjectId=109104068,/courses/109104068
+Game Theory and Economics,109103021,109,Video,false,syllabus/syllabus.php?subjectId=109103021,/courses/109103021/
+Game Theory for Economists,109104034,109,Web,false,syllabus/syllabus.php?subjectId=109104034,
+Health Psychology,109101007,109,Web,false,syllabus/syllabus.php?subjectId=109101007,
+History and Philosophy of Science and Technology,109101008,109,Web,false,syllabus/syllabus.php?subjectId=109101008,
+History and Philosophy of Science and Technology,109101009,109,Video,false,syllabus/syllabus.php?subjectId=109101009,
+History of Economic Theory,109106058,109,Video,false,syllabus/syllabus.php?subjectId=109106058,/courses/109106058/
+History of modern economic thought,109104072,109,Web,false,syllabus/syllabus.php?subjectId=109104072,
+Indian Philosophy,109106059,109,Video,false,syllabus/syllabus.php?subjectId=109106059,/courses/109106059/
+Indian Society - Issues and Problems,109103022,109,Web,false,syllabus/syllabus.php?subjectId=109103022,/courses/109103022
+International Economics,109104035,109,Video,false,syllabus/syllabus.php?subjectId=109104035,/courses/109104035/
+Introduction to Film Studies,,109,Web,true,,
+Introduction to Film Studies,109106079,109,Video,false,syllabus/syllabus.php?subjectId=109106079,/courses/109106079/
+Introduction to Political Theory,109106061,109,Video,false,syllabus/syllabus.php?subjectId=109106061,
+Introduction to Political Theory,109106062,109,Web,false,syllabus/syllabus.php?subjectId=109106062,
+Introduction to Sociology,109103023,109,Web,false,syllabus/syllabus.php?subjectId=109103023,/courses/109103023
+Introduction to Sociology,,109,video,true,,
+Macro Economics,,109,video,true,,
+Macroeconomics,109101010,109,Web,false,syllabus/syllabus.php?subjectId=109101010,
+Macroeconomics,109101011,109,Video,false,syllabus/syllabus.php?subjectId=109101011,
+Micro Economics,109104041,109,Video,false,syllabus/syllabus.php?subjectId=109104041,
+Micro Economics,109104042,109,Web,false,syllabus/syllabus.php?subjectId=109104042,
+Money & Banking,,109,Video,true,,
+Philosophy of Language,109106063,109,Web,false,syllabus/syllabus.php?subjectId=109106063,/courses/109106063
+Population and Society,109104044,109,Web,false,syllabus/syllabus.php?subjectId=109104044,/courses/109104044
+Population and Society,109104045,109,Video,false,syllabus/syllabus.php?subjectId=109104045,/courses/109104045/
+Professional Communication: An Introduction,109106065,109,Web,false,syllabus/syllabus.php?subjectId=109106065,
+Psycholinguistics,109101012,109,Web,false,syllabus/syllabus.php?subjectId=109101012,
+Psychology of adjustment,109104070,109,Web,false,syllabus/syllabus.php?subjectId=109104070,/courses/109104070
+Public Economics,109104071,109,Web,false,syllabus/syllabus.php?subjectId=109104071,
+Reading Poetry,109106075,109,Web,false,syllabus/syllabus.php?subjectId=109106075,
+Research Method in Psychology,109101013,109,Video,false,syllabus/syllabus.php?subjectId=109101013,
+Research Method in Psychology,109101014,109,Web,false,syllabus/syllabus.php?subjectId=109101014,
+Rural and Urban Sociology,109104047,109,Web,false,syllabus/syllabus.php?subjectId=109104047,/courses/109104047
+Science, Technology and Society,109103024,109,Web,false,syllabus/syllabus.php?subjectId=109103024,/courses/109103024
+Social Cogitation,,109,Video,true,,
+Social Cognition,109101015,109,Web,false,syllabus/syllabus.php?subjectId=109101015,
+Social Cognition,109101016,109,Video,false,syllabus/syllabus.php?subjectId=109101016,
+Technical English,109106066,109,Web,false,syllabus/syllabus.php?subjectId=109106066,/courses/109106066
+Translation Studies and Theory,109104050,109,Web,false,syllabus/syllabus.php?subjectId=109104050,/courses/109104050
+Understanding Creativity and Creative Writing,109101017,109,Video,false,syllabus/syllabus.php?subjectId=109101017,
+Advanced Design of Experiments for Engineers and Managers,110104020,110,Web,false,syllabus/syllabus.php?subjectId=110104020,
+Bank Management,110106040,110,Web,false,syllabus/syllabus.php?subjectId=110106040,/courses/110106040
+Business Analysis for Engineers,110106050,110,Web,false,syllabus/syllabus.php?subjectId=110106050,
+Commercial Banking Credit Risk Modeling & Management,110104048,110,Web,false,syllabus/syllabus.php?subjectId=110104048,
+Computer Aided Decision Support Systems (CADSS),110104021,110,Web,false,syllabus/syllabus.php?subjectId=110104021,
+Consumer Behaviour,110105029,110,Web,false,syllabus/syllabus.php?subjectId=110105029,/courses/110105029
+Consumer Behaviour,110105054,110,Video,false,syllabus/syllabus.php?subjectId=110105054,
+Corporate Finance,110104022,110,Web,false,syllabus/syllabus.php?subjectId=110104022,
+Econometric Modelling,110105030,110,Video,false,syllabus/syllabus.php?subjectId=110105030,/courses/110105030/
+Econometric Modelling,110105053,110,Web,false,syllabus/syllabus.php?subjectId=110105053,/courses/110105053
+Entrepreneurial Finance,110104049,110,Web,false,syllabus/syllabus.php?subjectId=110104049,
+Financial Markets and Institutions,110106042,110,Web,false,syllabus/syllabus.php?subjectId=110106042,
+Infrastructure Finance,110106043,110,Video,false,syllabus/syllabus.php?subjectId=110106043,
+International Business Communication,,110,Web,true,,
+International Business Communication,,110,Video,true,,
+International Finance,110105031,110,Web,false,syllabus/syllabus.php?subjectId=110105031,/courses/110105031
+Introduction to Marketing,110101001,110,Video,false,syllabus/syllabus.php?subjectId=110101001,
+Introduction to Marketing,110101002,110,Web,false,syllabus/syllabus.php?subjectId=110101002,
+Introduction to Stochastic Processes and its Applications,110104024,110,Web,false,syllabus/syllabus.php?subjectId=110104024,
+Management Decision Analysis,110104026,110,Web,false,syllabus/syllabus.php?subjectId=110104026,
+Managerial Accounting,110101003,110,Video,false,syllabus/syllabus.php?subjectId=110101003,
+Managerial Accounting,110101004,110,Web,false,syllabus/syllabus.php?subjectId=110101004,
+Managerial Economics,110101005,110,Video,false,syllabus/syllabus.php?subjectId=110101005,
+Manufacturing Systems Management,110106044,110,Video,false,syllabus/syllabus.php?subjectId=110106044,/courses/110106044/
+Marketing Management,110102012,110,Video,false,syllabus/syllabus.php?subjectId=110102012,
+Marketing Management,110102013,110,Web,false,syllabus/syllabus.php?subjectId=110102013,
+New Business Models in Knowledge Economy,110101006,110,Web,false,syllabus/syllabus.php?subjectId=110101006,
+New Business Models in Knowledge Economy,110101007,110,Video,false,syllabus/syllabus.php?subjectId=110101007,
+Operations and Supply Chain Management,110106045,110,Video,false,syllabus/syllabus.php?subjectId=110106045,/courses/110106045/
+Operations Management,110102015,110,Video,false,syllabus/syllabus.php?subjectId=110102015,
+Options & Futures,110104028,110,Web,false,syllabus/syllabus.php?subjectId=110104028,
+Organisation Management,110102016,110,Video,false,syllabus/syllabus.php?subjectId=110102016,/courses/110102016/
+Organizational Behaviour,110105033,110,Video,false,syllabus/syllabus.php?subjectId=110105033,
+Organizational Behaviour,110105034,110,Web,false,syllabus/syllabus.php?subjectId=110105034,/courses/110105034
+Project Management,110101008,110,Web,false,syllabus/syllabus.php?subjectId=110101008,
+Project Management,110101009,110,Video,false,syllabus/syllabus.php?subjectId=110101009,
+Quality Management,110101010,110,Web,false,syllabus/syllabus.php?subjectId=110101010,
+Quantitative Methods For Management,110102018,110,Video,false,syllabus/syllabus.php?subjectId=110102018,
+Security Analysis and Portfolio Management,110105035,110,Video,false,syllabus/syllabus.php?subjectId=110105035,/courses/110105035/
+Security Analysis and Portfolio Management,110105036,110,Web,false,syllabus/syllabus.php?subjectId=110105036,
+Services Marketing,110105037,110,Video,false,syllabus/syllabus.php?subjectId=110105037,
+Services Marketing,110105038,110,Web,false,syllabus/syllabus.php?subjectId=110105038,/courses/110105038
+Services Operations Management,110106046,110,Web,false,syllabus/syllabus.php?subjectId=110106046,/courses/110106046
+Six Sigma,110105039,110,Video,false,syllabus/syllabus.php?subjectId=110105039,/courses/110105039/
+Strategic Management,110108047,110,Video,false,syllabus/syllabus.php?subjectId=110108047,/courses/110108047/
+Strategic Marketing - Contemporary Issues,110104055,110,Video,false,syllabus/syllabus.php?subjectId=110104055,
+Supply Chain Management,110108056,110,Video,false,syllabus/syllabus.php?subjectId=110108056,
+A Basic Course in Real Analysis,111105069,111,Video,false,syllabus/syllabus.php?subjectId=111105069,
+Abstract Algebra,111102008,111,Web,false,syllabus/syllabus.php?subjectId=111102008,
+Advanced Abstract Algebra,111102009,111,Web,false,syllabus/syllabus.php?subjectId=111102009,/courses/111102009
+Advanced Engineering Mathematics,111105035,111,Video,false,syllabus/syllabus.php?subjectId=111105035,/courses/111105035/
+Advanced Matrix Theory and Linear Algebra for Engineers,111108066,111,Video,false,syllabus/syllabus.php?subjectId=111108066,/courses/111108066/
+Algebra II,111101001,111,Web,false,syllabus/syllabus.php?subjectId=111101001,/courses/111101001
+Algebraic Curves and Riemann Surfaces,111106044,111,Video,false,syllabus/syllabus.php?subjectId=111106044,
+Algebraic Topology,111101002,111,Web,false,syllabus/syllabus.php?subjectId=111101002,/courses/111101002
+Analysis of variance and design of experiment-I,111104075,111,Web,false,syllabus/syllabus.php?subjectId=111104075,
+Analysis of variance and design of experiment-II,111104078,111,Web,false,syllabus/syllabus.php?subjectId=111104078,
+Applied Multivariate Analysis,111104024,111,Video,false,syllabus/syllabus.php?subjectId=111104024,/courses/111104024/
+Calculus of Variation and Integral Equations,111107055,111,Video,false,syllabus/syllabus.php?subjectId=111107055,
+Calculus of Variations and Integral Equations,111104025,111,Video,false,syllabus/syllabus.php?subjectId=111104025,/courses/111104025/
+Complex Analysis,111103070,111,Video,false,syllabus/syllabus.php?subjectId=111103070,/courses/111103070/
+Complex Analysis,111107056,111,Web,false,syllabus/syllabus.php?subjectId=111107056,
+Computational Partial Differential Equations and Simulation,111106045,111,Video,false,syllabus/syllabus.php?subjectId=111106045,
+Computational Topology,111106067,111,Web,false,syllabus/syllabus.php?subjectId=111106067,
+Convex Optimization,111104068,111,Video,false,syllabus/syllabus.php?subjectId=111104068,/courses/111104068/
+Cryptography,111102010,111,Web,false,syllabus/syllabus.php?subjectId=111102010,
+Differential Geometry,111107057,111,Web,false,syllabus/syllabus.php?subjectId=111107057,
+Discrete Mathematics,111104026,111,Web,false,syllabus/syllabus.php?subjectId=111104026,/courses/111104026
+Discrete Mathematics,111107058,111,Video,false,syllabus/syllabus.php?subjectId=111107058,
+Econometric Theory,111104072,111,Web,false,syllabus/syllabus.php?subjectId=111104072,
+Elementary Numerical Analysis,111101003,111,Video,false,syllabus/syllabus.php?subjectId=111101003,/courses/111101003/
+Finite Element Method,111107059,111,Web,false,syllabus/syllabus.php?subjectId=111107059,
+Formal Languages and Automata Theory,111103016,111,Video,false,syllabus/syllabus.php?subjectId=111103016,
+Foundations of Optimization,111104077,111,Video,false,syllabus/syllabus.php?subjectId=111104077,
+Fourier Analysis,111106046,111,Web,false,syllabus/syllabus.php?subjectId=111106046,/courses/111106046
+Functional Analysis,111105037,111,Video,false,syllabus/syllabus.php?subjectId=111105037,/courses/111105037/
+Functional Analysis,111106047,111,Web,false,syllabus/syllabus.php?subjectId=111106047,/courses/111106047
+Fuzzy Sets and their Applications,111106048,111,Web,false,syllabus/syllabus.php?subjectId=111106048,
+Fuzzy Sets and their Applications,111106049,111,Video,false,syllabus/syllabus.php?subjectId=111106049,
+Graph Theory,111106050,111,Web,false,syllabus/syllabus.php?subjectId=111106050,/courses/111106050
+Graph Theory,111107060,111,Web,false,syllabus/syllabus.php?subjectId=111107060,
+Introduction to Number Theory and Cryptography,111103017,111,Video,false,syllabus/syllabus.php?subjectId=111103017,
+Introduction to Probability,,111,Video,true,,
+Introduction to Probability Theory,111101004,111,Web,false,syllabus/syllabus.php?subjectId=111101004,/courses/111101004
+Linear Algebra,111102011,111,Web,false,syllabus/syllabus.php?subjectId=111102011,
+Linear Algebra,111106051,111,Video,false,syllabus/syllabus.php?subjectId=111106051,
+Linear programming and Extensions,111104027,111,Video,false,syllabus/syllabus.php?subjectId=111104027,/courses/111104027/
+Linear Programming Problems,111102012,111,Web,false,syllabus/syllabus.php?subjectId=111102012,
+Linear Regression Analysis,111104074,111,Web,false,syllabus/syllabus.php?subjectId=111104074,
+Mathematical Finance,111103018,111,Web,false,syllabus/syllabus.php?subjectId=111103018,
+Mathematical Logic,111104028,111,Web,false,syllabus/syllabus.php?subjectId=111104028,
+Mathematical Logic,111106052,111,Video,false,syllabus/syllabus.php?subjectId=111106052,/courses/111106052/
+Mathematics in India - From Vedic Period to Modern Times ,111101080,111,Video,false,syllabus/syllabus.php?subjectId=111101080,
+Matrix Computations,111103019,111,Web,false,syllabus/syllabus.php?subjectId=111103019,
+Measure and Integration,111101005,111,Video,false,syllabus/syllabus.php?subjectId=111101005,/courses/111101005/
+Modern Analysis,111102013,111,Video,false,syllabus/syllabus.php?subjectId=111102013,
+Number Theory,111103020,111,Web,false,syllabus/syllabus.php?subjectId=111103020,/courses/111103020
+Numerical Analysis,111107062,111,Web,false,syllabus/syllabus.php?subjectId=111107062,
+Numerical methods of Ordinary and Partial Differential Equations,111105038,111,Video,false,syllabus/syllabus.php?subjectId=111105038,
+Numerical Solution of ODEs,111104030,111,Web,false,syllabus/syllabus.php?subjectId=111104030,/courses/111104030
+Numerical Solution of Ordinary and Partial Differential Equations,111107063,111,Web,false,syllabus/syllabus.php?subjectId=111107063,/courses/111107063
+Operations Research,111107064,111,Video,false,syllabus/syllabus.php?subjectId=111107064,
+Optimization ,,111,Video,true,,
+Optimization,,111,Video,true,,
+Optimization,111105040,111,Web,false,syllabus/syllabus.php?subjectId=111105040,
+Optimization Techniques,111107065,111,Web,false,syllabus/syllabus.php?subjectId=111107065,
+Ordinary Differential Equations,111104031,111,Web,false,syllabus/syllabus.php?subjectId=111104031,/courses/111104031
+Partial Differential Equations,111103021,111,Web,false,syllabus/syllabus.php?subjectId=111103021,
+Probability and Statistics,111105041,111,Video,false,syllabus/syllabus.php?subjectId=111105041,/courses/111105041/
+Probability Theory and Applications,111104079,111,Video,false,syllabus/syllabus.php?subjectId=111104079,
+Real Analysis,111106053,111,Video,false,syllabus/syllabus.php?subjectId=111106053,/courses/111106053/
+Regression Analysis,111105042,111,Video,false,syllabus/syllabus.php?subjectId=111105042,/courses/111105042/
+Sampling Theory,111104073,111,Web,false,syllabus/syllabus.php?subjectId=111104073,/courses/111104073
+Spectral Theory of Linear Operators,111104033,111,Web,false,syllabus/syllabus.php?subjectId=111104033,
+Statistical Inference,111105043,111,Video,false,syllabus/syllabus.php?subjectId=111105043,
+Statistical Methods for Scientists and Engineers ,,111,Video,true,,
+Stochastic Processes,111102014,111,Video,false,syllabus/syllabus.php?subjectId=111102014,
+Stochastic Processes,111103022,111,Web,false,syllabus/syllabus.php?subjectId=111103022,
+The Mathematical Theory of Finite Elements,111101007,111,Video,false,syllabus/syllabus.php?subjectId=111101007,
+Topology,111106054,111,Web,false,syllabus/syllabus.php?subjectId=111106054,
+Acoustics,112104026,112,Video,false,syllabus/syllabus.php?subjectId=112104026,
+Advanced Engineering Thermodynamics,112103016,112,Web,false,syllabus/syllabus.php?subjectId=112103016,/courses/112103016
+Advanced Finite Elements Analysis,112106130,112,Video,false,video.php?subjectId=112106130,
+Advanced Fluid Mechanics,112103017,112,Video,false,syllabus/syllabus.php?subjectId=112103017,
+Advanced Fluid Mechanics,112103018,112,Web,false,syllabus/syllabus.php?subjectId=112103018,
+Advanced Gas Dynamics,112106056,112,Video,false,syllabus/syllabus.php?subjectId=112106056,/courses/112106056/
+Advanced Machining Processes,112104028,112,Video,false,syllabus/syllabus.php?subjectId=112104028,/courses/112104028/
+Advanced manufacturing process for micro sytem fabrication,,112,Video,true,,
+Advanced Manufacturing Processes,112107077,112,Web,false,syllabus/syllabus.php?subjectId=112107077,/courses/112107077
+Advanced Manufacturing Processes,112107078,112,Video,false,syllabus/syllabus.php?subjectId=112107078,/courses/112107078/
+Advanced Operations Research,112106131,112,Video,false,video.php?subjectId=112106131,
+Advanced Robotics,112102008,112,Web,false,syllabus/syllabus.php?subjectId=112102008,
+Advanced Robotics,112102009,112,Video,false,syllabus/syllabus.php?subjectId=112102009,
+Advanced Strength of Materials,112101095,112,Video,false,syllabus/syllabus.php?subjectId=112101095,/courses/112101095/
+Air Breathing Engines,112106166,112,Video,false,syllabus/syllabus.php?subjectId=112106166,
+Air Conditioning and Ventilation,112106057,112,Web,false,syllabus/syllabus.php?subjectId=112106057,
+Analysis & Design of Smart Materials and Structures,112106058,112,Web,false,syllabus/syllabus.php?subjectId=112106058,
+Applied Thermodynamics,112106133,112,Web,false,syllabus/syllabus.php?subjectId=112106133,courses/IIT-MADRAS/Applied_Thermodynamics/index.php
+Automation & Controls,112102010,112,Video,false,syllabus/syllabus.php?subjectId=112102010,
+Automation & Controls,112102011,112,Web,false,syllabus/syllabus.php?subjectId=112102011,
+Automation & Sensor Interface Laboratory,112106151,112,Web,false,syllabus/syllabus.php?subjectId=112106151,
+Automation & Sensor Interface Laboratory,112106152,112,Video,false,syllabus/syllabus.php?subjectId=112106152,
+Basic Thermodynamics,112104113,112,Web,false,syllabus/syllabus.php?subjectId=112104113,courses/Webcourse-contents/IIT-KANPUR/Basic_Thermodynamics/ui/About-Faculty.html
+Basic Thermodynamics,112105123,112,Video,false,video.php?subjectId=112105123,
+Basic Thermodynamics,112108148,112,Web,false,syllabus/syllabus.php?subjectId=112108148,courses/Webcourse-contents/IISc-BANG/Basic Thermodynamics/New_index1.html
+Biomechanics,112106059,112,Web,false,syllabus/syllabus.php?subjectId=112106059,
+Biomicroelectromechanical systems,112104029,112,Video,false,syllabus/syllabus.php?subjectId=112104029,/courses/112104029/
+Composite Structures,112106060,112,Video,false,syllabus/syllabus.php?subjectId=112106060,
+Computational Fluid Dynamics,112105045,112,Video,false,syllabus/syllabus.php?subjectId=112105045,/courses/112105045/
+Computational Fluid Dynamics,112107079,112,Video,false,syllabus/syllabus.php?subjectId=112107079,
+Computational Fluid Dynamics,112107080,112,Web,false,syllabus/syllabus.php?subjectId=112107080,/courses/112107080
+Computational Fluid Dynamics and Heat Transfer,112104030,112,Web,false,syllabus/syllabus.php?subjectId=112104030,/courses/112104030
+Computational Fluid Dynamics for Turbomachinery,112106061,112,Web,false,syllabus/syllabus.php?subjectId=112106061,
+Computational Heat Transfer and Fluid Flow,112108091,112,Web,false,syllabus/syllabus.php?subjectId=112108091,/courses/112108091
+Computer Aided Design and Manufacturing,112102101,112,Video,false,video.php?subjectId=112102101,
+Computer Aided Design and Manufacturing I,courses/Webcourse-contents/IIT-Delhi/Computer Aided Design & ManufacturingI/index.htm,112,Web,false,courses/Webcourse-contents/IIT-Delhi/Computer Aided Design & ManufacturingI/index.htm,
+Computer Aided Design and Manufacturing II,courses/Webcourse-contents/IIT-Delhi/Computer Aided Design & ManufacturingII/index.htm,112,Web,false,courses/Webcourse-contents/IIT-Delhi/Computer Aided Design & ManufacturingII/index.htm,
+Computer Aided Engineering Design,112104031,112,Video,false,syllabus/syllabus.php?subjectId=112104031,/courses/112104031/
+Computer Numerical Control of Machine Tools,112106062,112,Web,false,syllabus/syllabus.php?subjectId=112106062,
+Conduction And Radiation,112106155,112,Video,false,syllabus/syllabus.php?subjectId=112106155,/courses/112106155/
+Constitutive modeling in continuous media,112106063,112,Web,false,syllabus/syllabus.php?subjectId=112106063,
+Continuum Mechanics,112103167,112,Web,false,syllabus/syllabus.php?subjectId=112103167,
+Convective Heat and Mass Transfer,112101002,112,Video,false,syllabus/syllabus.php?subjectId=112101002,/courses/112101002/
+Convective Heat and Mass Transfer,112104159,112,Web,false,syllabus/syllabus.php?subjectId=112104159,
+Convective Heat Transfer,112106170,112,Video,false,syllabus/syllabus.php?subjectId=112106170,
+Cryogenic Engineering,112101004,112,Video,false,syllabus/syllabus.php?subjectId=112101004,/courses/112101004/
+Design and Optimization of Energy systems,112106064,112,Video,false,syllabus/syllabus.php?subjectId=112106064,/courses/112106064/
+Design For Manufacturing,112101005,112,Web,false,syllabus/syllabus.php?subjectId=112101005,/courses/112101005
+Design of Hydraulic & Preumatic systems,,112,Web,true,,
+Design of Hydraulic & Preumatic systems,,112,Video,true,,
+Design of Machine Elements I,112105124,112,Video,false,syllabus/syllabus.php?subjectId=112105124,video.php?subjectId=112105124
+Design of Machine Elements I,112105125,112,Web,false,syllabus/syllabus.php?subjectId=112105125,courses/Webcourse-contents/IIT Kharagpur/Machine design1/New_index1.html
+Dynamics of Machines,112101096,112,Web,false,syllabus/syllabus.php?subjectId=112101096,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Mechanical/Dynamics%20of%20Machines/Course%20Objective.html')
+Dynamics of Machines,112104114,112,Video,false,syllabus/syllabus.php?subjectId=112104114,video.php?subjectId=112104114
+Dynamics of Mechanical System,112107081,112,Video,false,syllabus/syllabus.php?subjectId=112107081,
+Dynamics of Mechanical System,112107082,112,Web,false,syllabus/syllabus.php?subjectId=112107082,
+Engine Combustion,112104033,112,Web,false,syllabus/syllabus.php?subjectId=112104033,/courses/112104033
+Engineering Drawing,112103019,112,Web,false,syllabus/syllabus.php?subjectId=112103019,
+Engineering Drawing,112103020,112,Video,false,syllabus/syllabus.php?subjectId=112103020,
+Engineering Fracture Mechanics,112106065,112,Video,false,syllabus/syllabus.php?subjectId=112106065,/courses/112106065/
+Engineering Graphics,112106066,112,Video,false,syllabus/syllabus.php?subjectId=112106066,
+Engineering Mechanics,112103108,112,Video,false,syllabus/syllabus.php?subjectId=112103108,video.php?subjectId=112103108
+Engineering Mechanics,112103109,112,Web,false,syllabus/syllabus.php?subjectId=112103109,courses/Webcourse-contents/IIT- Guwahati/engg_mechanics/index.htm
+Engineering Mechanics,112106067,112,Web,false,syllabus/syllabus.php?subjectId=112106067,
+Experimental Stress Analysis,112106068,112,Video,false,syllabus/syllabus.php?subjectId=112106068,/courses/112106068/
+Fatigue of Materials and Structures,112106069,112,Web,false,syllabus/syllabus.php?subjectId=112106069,
+Finite Element Method,112104115,112,Video,false,video.php?subjectId=112104115,
+Finite Element Method,112104116,112,Web,false,syllabus/syllabus.php?subjectId=112104116,courses/Webcourse-contents/IIT-KANPUR/FiniteElementMethod/ui/About-Faculty.html
+Fluid Machinery,112104117,112,Web,false,syllabus/syllabus.php?subjectId=112104117,courses/Webcourse-contents/IIT-KANPUR/machine/ui/About-Faculty.html
+Fluid Mechanics,112104118,112,Web,false,syllabus/syllabus.php?subjectId=112104118,courses/Webcourse-contents/IIT-KANPUR/FLUID-MECHANICS/ui/About-Faculty.html
+Fluid Mechanics,112105171,112,Video,false,syllabus/syllabus.php?subjectId=112105171,
+Forming,112106153,112,Web,false,syllabus/syllabus.php?subjectId=112106153,
+Fundamentals of Operations Research,112106134,112,Video,false,video.php?subjectId=112106134,
+Gas Dynamics,112103021,112,Web,false,syllabus/syllabus.php?subjectId=112103021,/courses/112103021
+Gas Dynamics and Jet Propulsion,112102012,112,Web,false,syllabus/syllabus.php?subjectId=112102012,
+Gas Dynamics and Jet Propulsion,112102013,112,Video,false,syllabus/syllabus.php?subjectId=112102013,
+Heat and Mass Transfer,112101097,112,Video,false,syllabus/syllabus.php?subjectId=112101097,/courses/112101097/
+Heat and Mass Transfer,112108149,112,Web,false,syllabus/syllabus.php?subjectId=112108149,courses/Webcourse-contents/IISc-BANG/Heat and Mass Transfer/New_index1.html
+Industrial Engineering,112107142,112,Web,false,syllabus/syllabus.php?subjectId=112107142,courses/Webcourse-contents/IIT-ROORKEE/INDUSTRIAL-ENGINERRING/index.htm
+Industrial Engineering,112107143,112,Video,false,syllabus/syllabus.php?subjectId=112107143,video.php?subjectId=112107143
+Inelasticity of Materials,112106070,112,Web,false,syllabus/syllabus.php?subjectId=112106070,
+Introduction to Composites,112104168,112,Web,false,syllabus/syllabus.php?subjectId=112104168,/courses/112104168
+Introduction to Finite Element Method,112106135,112,Video,false,video.php?subjectId=112106135,
+Introduction to Nuclear Engineering,112101006,112,Video,false,syllabus/syllabus.php?subjectId=112101006,
+Introduction to Nuclear Engineering,112101007,112,Web,false,syllabus/syllabus.php?subjectId=112101007,
+Introduction to Turbulence,112104120,112,Web,false,syllabus/syllabus.php?subjectId=112104120,courses/Webcourse-contents/IIT-KANPUR/Introduction_to_Turbulence/ui/About-Faculty.html
+Kinematics,112102105,112,Web,false,syllabus/syllabus.php?subjectId=112102105,courses/Webcourse-contents/IIT-Delhi/Kinematics of Machine/index.htm
+Kinematics of Machines,112104121,112,Video,false,syllabus/syllabus.php?subjectId=112104121,video.php?subjectId=112104121
+Liquid Vapor Phase Change Technology,112104034,112,Video,false,syllabus/syllabus.php?subjectId=112104034,
+Machine Design II,112106137,112,Web,false,syllabus/syllabus.php?subjectId=112106137,courses/IIT-MADRAS/Machine_Design_II/index.php
+Machine Drawing,112106075,112,Video,false,syllabus/syllabus.php?subjectId=112106075,
+Machinery fault diagnosis and signal processing,,112,Video,true,,
+Machinery fault diagnosis and signal processing,,112,Web,true,,
+Manufacturing Processes I,112107144,112,Web,false,syllabus/syllabus.php?subjectId=112107144,courses/Webcourse-contents/IIT-ROORKEE/MANUFACTURING-PROCESSES/index.htm
+Manufacturing Processes I,112107145,112,Video,false,syllabus/syllabus.php?subjectId=112107145,video.php?subjectId=112107145
+Manufacturing Processes II,112105126,112,Video,false,video.php?subjectId=112105126,
+Manufacturing Processes II,112105127,112,Web,false,syllabus/syllabus.php?subjectId=112105127,courses/Webcourse-contents/IIT Kharagpur/Manuf Proc II/New_index1.html
+Materials Science,112108150,112,Web,false,syllabus/syllabus.php?subjectId=112108150,courses/Webcourse-contents/IISc-BANG/Material Science/New_index1.html
+Materials Selection and Design,112104122,112,Web,false,syllabus/syllabus.php?subjectId=112104122,courses/Webcourse-contents/IIT-KANPUR/material_selection/ui/Course_Objective.html
+Mathematical Methods in Engineering and Science,112104035,112,Video,false,syllabus/syllabus.php?subjectId=112104035,/courses/112104035/
+Mechanical Measurements and Metrology,112106138,112,Video,false,syllabus/syllabus.php?subjectId=112106138,video.php?subjectId=112106138
+Mechanical Measurements and Metrology,112106139,112,Web,false,syllabus/syllabus.php?subjectId=112106139,courses/IIT-MADRAS/Mechanical_Measurements_Metrology/index.php
+Mechanical Vibrations,112103111,112,Web,false,syllabus/syllabus.php?subjectId=112103111,courses/Webcourse-contents/IIT- Guwahati/ve/index.htm
+Mechanical Vibrations,112103112,112,Video,false,syllabus/syllabus.php?subjectId=112103112,video.php?subjectId=112103112
+Mechanics,,112,Web,true,,
+Mechanics of Fatigue and Fracture,112106071,112,Web,false,syllabus/syllabus.php?subjectId=112106071,
+Mechanics of Laminated composite structure,/courses/112104161,112,Web,false,/courses/112104161,downloads/112104161/
+Mechanics of Materials,112104036,112,Web,false,syllabus/syllabus.php?subjectId=112104036,
+Mechanics of Solids,,112,Video,true,,
+Metal Casting,112107083,112,Video,false,syllabus/syllabus.php?subjectId=112107083,
+Metal Casting,112107084,112,Web,false,syllabus/syllabus.php?subjectId=112107084,
+Micro and Smart Systems,112108092,112,Video,false,syllabus/syllabus.php?subjectId=112108092,/courses/112108092/
+Microfluidic systems - theory and design,112104037,112,Video,false,syllabus/syllabus.php?subjectId=112104037,
+Microfluidics,112106169,112,Video,false,syllabus/syllabus.php?subjectId=112106169,
+Modelling and control of Dynamic Electro-Mechanical System,112104158,112,Web,false,syllabus/syllabus.php?subjectId=112104158,
+Nonlinear Vibration,112103022,112,Web,false,syllabus/syllabus.php?subjectId=112103022,
+Nonlinear Vibration,112103023,112,Video,false,syllabus/syllabus.php?subjectId=112103023,
+Optical Measurement Techniques in Thermal Sciences,112104039,112,Web,false,syllabus/syllabus.php?subjectId=112104039,/courses/112104039
+Principles of Mechanical Measurements,112106140,112,Video,false,video.php?subjectId=112106140,
+Principles of Vibration Control,112104040,112,Web,false,syllabus/syllabus.php?subjectId=112104040,/courses/112104040
+Processing of non metals,112107085,112,Web,false,syllabus/syllabus.php?subjectId=112107085,
+Processing of non metals,112107086,112,Video,false,syllabus/syllabus.php?subjectId=112107086,/courses/112107086/
+Project and Production Management,112102106,112,Video,false,syllabus/syllabus.php?subjectId=112102106,video.php?subjectId=112102106
+Project and Production Management,112102107,112,Web,false,syllabus/syllabus.php?subjectId=112102107,courses/Webcourse-contents/IIT-Delhi/project and production management/index.htm
+Random vibrations & Failure Analysis,112106072,112,Web,false,syllabus/syllabus.php?subjectId=112106072,
+Rapid Manufacturing,112104156,112,Web,false,syllabus/syllabus.php?subjectId=112104156,
+Refrigeration and Air Conditioning,112105128,112,Video,false,syllabus/syllabus.php?subjectId=112105128,video.php?subjectId=112105128
+Refrigeration and Air Conditioning,112105129,112,Web,false,syllabus/syllabus.php?subjectId=112105129,courses/Webcourse-contents/IIT Kharagpur/Ref and Air Cond/New_index1.html
+Robotics,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Mechanical/Robotics%20Course/Course%20Objective.html'),112,Web,false,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Mechanical/Robotics%20Course/Course%20Objective.html'),
+Robotics,/courses/112101099/,112,Video,false,/courses/112101099/,downloads/112101099/
+Robotics: Advanced Concepts and Analysis,112108093,112,Web,false,syllabus/syllabus.php?subjectId=112108093,/courses/112108093
+Rocket Propulsion,112106073,112,Video,false,syllabus/syllabus.php?subjectId=112106073,/courses/112106073/
+Second Level Course in Heat Transfer,112101001,112,Web,false,syllabus/syllabus.php?subjectId=112101001,
+Smart Material, Adaptive Structures and Intelligent Mechanical Systems - IITK,112104041,112,Video,false,syllabus/syllabus.php?subjectId=112104041,
+Solar and Wind energy,,112,Web,true,,
+Solar and Wind energy,,112,Video,true,,
+Spray Theory and Applications,112106154,112,Video,false,syllabus/syllabus.php?subjectId=112106154,
+Strength of Materials,112106141,112,Web,false,syllabus/syllabus.php?subjectId=112106141,courses/IIT-MADRAS/Strength_of_Materials/index.php
+Strength of Materials,112107146,112,Web,false,syllabus/syllabus.php?subjectId=112107146,courses/Webcourse-contents/IIT-ROORKEE/strength of materials/homepage.htm
+Strength of Materials,112107147,112,Video,false,video.php?subjectId=112107147,
+Structural Health Monitoring of Composites,112104160,112,Web,false,syllabus/syllabus.php?subjectId=112104160,/courses/112104160
+Surface Coating Technology,,112,Web,true,,
+Surface Coating Technology,,112,Video,true,,
+Theory & Practice of Rotor Dynamics,112103024,112,Web,false,syllabus/syllabus.php?subjectId=112103024,
+Theory & Practice of Rotor Dynamics,112103025,112,Video,false,syllabus/syllabus.php?subjectId=112103025,/courses/112103025/
+Theory of plasticity,112104042,112,Video,false,syllabus/syllabus.php?subjectId=112104042,
+Tribology,112102014,112,Video,false,syllabus/syllabus.php?subjectId=112102014,/courses/112102014/
+Tribology,112102015,112,Web,false,syllabus/syllabus.php?subjectId=112102015,/courses/112102015
+Variational Methods and Structural Optimization,112108094,112,Web,false,syllabus/syllabus.php?subjectId=112108094,
+Vibration control,112107087,112,Video,false,syllabus/syllabus.php?subjectId=112107087,
+Vibration control,112107088,112,Web,false,syllabus/syllabus.php?subjectId=112107088,
+Vibration of Structures,/courses/112105054,112,Web,false,/courses/112105054,downloads/112105054/
+Vibration of Structures,112105055,112,Video,false,syllabus/syllabus.php?subjectId=112105055,/courses/112105055/
+Viscoelasticity,112106076,112,Web,false,syllabus/syllabus.php?subjectId=112106076,
+Wave Propagation in Continuous Media,,112,Web,true,,
+Welding Engineering,112107089,112,Video,false,syllabus/syllabus.php?subjectId=112107089,
+Welding Engineering,112107090,112,Web,false,syllabus/syllabus.php?subjectId=112107090,
+Advanced ceramics for strategic applications,113105015,113,Video,false,syllabus/syllabus.php?subjectId=113105015,
+Advanced ceramics for strategic applications,113105016,113,Web,false,syllabus/syllabus.php?subjectId=113105016,
+Advanced Characterization Techniques,113104004,113,Video,false,syllabus/syllabus.php?subjectId=113104004,
+Advanced Materials and Processes,113105057,113,Video,false,video.php?subjectId=113105057,
+Advanced Mechanical Behavior of Materials,113108050,113,Web,false,syllabus/syllabus.php?subjectId=113108050,
+Advanced Metallurgical Thermodynamics,113106031,113,Video,false,syllabus/syllabus.php?subjectId=113106031,/courses/113106031/
+Advances in Corrosion Engineering,113108051,113,Web,false,syllabus/syllabus.php?subjectId=113108051,/courses/113108051
+Composite Materials,113107045,113,Video,false,syllabus/syllabus.php?subjectId=113107045,
+Composite Materials,113107046,113,Web,false,syllabus/syllabus.php?subjectId=113107046,
+Computational Approach to Materials Science and Engineering,113101002,113,Web,false,syllabus/syllabus.php?subjectId=113101002,
+Diffusion in solids,113108052,113,Web,false,syllabus/syllabus.php?subjectId=113108052,/courses/113108052
+Electroceramics,113104005,113,Web,false,syllabus/syllabus.php?subjectId=113104005,/courses/113104005
+Electroceramics,113104006,113,Video,false,syllabus/syllabus.php?subjectId=113104006,
+Engineering Polymers,113105017,113,Web,false,syllabus/syllabus.php?subjectId=113105017,
+Environmental Degradation of Materials,,113,Video,true,,
+Environmental Degradation of Materials,113107007,113,Video,false,syllabus/syllabus.php?subjectId=113107007,
+Fracture,113108053,113,Video,false,syllabus/syllabus.php?subjectId=113108053,
+Fuel,furnace and Refractory,113104058,113,Web,false,syllabus/syllabus.php?subjectId=113104058,/courses/113104058
+Fuels Refractory and Furnaces,113104008,113,Video,false,syllabus/syllabus.php?subjectId=113104008,/courses/113104008/
+High Temperature Materials,113105019,113,Video,false,syllabus/syllabus.php?subjectId=113105019,
+Introduction to Biomaterials,113104009,113,Video,false,syllabus/syllabus.php?subjectId=113104009,/courses/113104009/
+Introduction to Crystallographic texture and related phenomenon,113108054,113,Web,false,syllabus/syllabus.php?subjectId=113108054,
+Introduction to Materials Science and Engineering,113106032,113,Web,false,syllabus/syllabus.php?subjectId=113106032,/courses/113106032
+Materials and Energy balance in Metallurgical Processes,113104010,113,Video,false,syllabus/syllabus.php?subjectId=113104010,/courses/113104010/
+Materials and Heat Balance in Metallurgical Processes,113104060,113,Web,false,syllabus/syllabus.php?subjectId=113104060,/courses/113104060
+Materials Characterization,113106034,113,Video,false,syllabus/syllabus.php?subjectId=113106034,
+Materials Characterization,113107033,113,Web,false,syllabus/syllabus.php?subjectId=113107033,
+Materials for Energy Applications,113107047,113,Web,false,syllabus/syllabus.php?subjectId=113107047,
+Mechanical Behavior of Materials,113107048,113,Web,false,syllabus/syllabus.php?subjectId=113107048,
+Mechanical Behavior of Materials,113107049,113,Video,false,syllabus/syllabus.php?subjectId=113107049,
+Metal Forming Technology,113106035,113,Video,false,syllabus/syllabus.php?subjectId=113106035,
+Metals Biotechnology,113108055,113,Web,false,syllabus/syllabus.php?subjectId=113108055,/courses/113108055
+Modern trends in materials processing,113108056,113,Web,false,syllabus/syllabus.php?subjectId=113108056,
+Non-Destructive Evaluation,113106036,113,Video,false,syllabus/syllabus.php?subjectId=113106036,
+Non-Destructive Evaluation,113106037,113,Web,false,syllabus/syllabus.php?subjectId=113106037,
+Non-ferrous Extractive Metallurgy,113105021,113,Video,false,syllabus/syllabus.php?subjectId=113105021,/courses/113105021/
+Optoelectronic Materials and Devices,113104012,113,Video,false,syllabus/syllabus.php?subjectId=113104012,
+Phase Diagrams,113106038,113,Web,false,syllabus/syllabus.php?subjectId=113106038,
+Phase Transformations and Heat Treatment,113101003,113,Web,false,syllabus/syllabus.php?subjectId=113101003,
+Physics of Materials,113106039,113,Video,false,syllabus/syllabus.php?subjectId=113106039,/courses/113106039/
+Physics of Materials,113106040,113,Web,false,syllabus/syllabus.php?subjectId=113106040,/courses/113106040
+Principles of Ceramic Fabrication and Processing,113105020,113,Video,false,syllabus/syllabus.php?subjectId=113105020,
+Principles of Physical Metallurgy,113105023,113,Web,false,syllabus/syllabus.php?subjectId=113105023,
+Principles of Physical Metallurgy,113105024,113,Video,false,syllabus/syllabus.php?subjectId=113105024,/courses/113105024/
+Processing of Semiconducting Materials,113105025,113,Video,false,syllabus/syllabus.php?subjectId=113105025,
+Processing of Semiconducting Materials,113105026,113,Web,false,syllabus/syllabus.php?subjectId=113105026,
+Science and Technology of Ceramics,113106041,113,Web,false,syllabus/syllabus.php?subjectId=113106041,
+Science and Technology of Ceramics,113106042,113,Video,false,syllabus/syllabus.php?subjectId=113106042,
+Science and Technology of Polymers,113105027,113,Web,false,syllabus/syllabus.php?subjectId=113105027,
+Science and Technology of Polymers,113105028,113,Video,false,syllabus/syllabus.php?subjectId=113105028,/courses/113105028/
+Steel Making,113104013,113,Video,false,syllabus/syllabus.php?subjectId=113104013,/courses/113104013/
+Steel Making,113104059,113,Web,false,syllabus/syllabus.php?subjectId=113104059,/courses/113104059
+Structure of Materials,113104014,113,Video,false,syllabus/syllabus.php?subjectId=113104014,
+Transport Phenomena,113106043,113,Video,false,syllabus/syllabus.php?subjectId=113106043,
+Transport Phenomena,113106044,113,Web,false,syllabus/syllabus.php?subjectId=113106044,
+Analysis of Ship Structures,,114,Web,true,,
+Applied Thermodynamics for Marine Systems,114105029,114,Video,false,video.php?subjectId=114105029,
+CAD-CAM in Marine design and production,,114,Video,true,,
+CFD Applications in Marine Vehicle Design,114106009,114,Web,false,syllabus/syllabus.php?subjectId=114106009,
+Coastal Engineering,114106032,114,Video,false,syllabus/syllabus.php?subjectId=114106032,/courses/114106032/
+Design of Offshore Structures,114106011,114,Web,false,syllabus/syllabus.php?subjectId=114106011,
+Design of Ship Structures,,114,Web,true,,
+Dynamics of Ocean Structures,114106036,114,Video,false,syllabus/syllabus.php?subjectId=114106036,/courses/114106036/
+Elements of Ocean Engineering,114105002,114,Video,false,syllabus/syllabus.php?subjectId=114105002,/courses/114105002/
+Experimental Methods in Ocean Engineering,,114,Web,true,,
+Finite element method and its implementation for steady and transient problems,114106034,114,Video,false,syllabus/syllabus.php?subjectId=114106034,
+Foundation for Offshore Structures,114106015,114,Web,false,syllabus/syllabus.php?subjectId=114106015,
+Guidance and Control of Marine Vehicles,,114,Video,true,,
+Health,Safety and Environmental Management in Petroleum and Offshore Engineering,114106017,114,Video,false,syllabus/syllabus.php?subjectId=114106017,/courses/114106017/
+Hydrostatics and Stability,114105003,114,Video,false,syllabus/syllabus.php?subjectId=114105003,/courses/114105003/
+Marine Construction and Welding,114105004,114,Video,false,syllabus/syllabus.php?subjectId=114105004,/courses/114105004/
+Marine Hydrodynamics,114105005,114,Video,false,syllabus/syllabus.php?subjectId=114105005,/courses/114105005/
+Marine Instrumentation,,114,Web,true,,
+Marine Survey,114106019,114,Web,false,syllabus/syllabus.php?subjectId=114106019,
+Ocean Acoustics,114106022,114,Web,false,syllabus/syllabus.php?subjectId=114106022,
+Ocean Structures and Materials,114106035,114,Video,false,syllabus/syllabus.php?subjectId=114106035,
+Oceanography for Ocean Engineers,114106024,114,Web,false,syllabus/syllabus.php?subjectId=114106024,
+Performance of Marine Vehicles at Sea,114105030,114,Video,false,video.php?subjectId=114105030,
+Port and Harbour Structures,114106025,114,Video,false,syllabus/syllabus.php?subjectId=114106025,
+Seakeeping & Manoeuvring,114105006,114,Video,false,syllabus/syllabus.php?subjectId=114105006,/courses/114105006/
+Ship Design,,114,Video,true,,
+Ship Resistance and Propulsion,114106026,114,Video,false,syllabus/syllabus.php?subjectId=114106026,
+Strength and Vibration of Marine Structures,114105031,114,Video,false,video.php?subjectId=114105031,
+Wave Hydrodynamics,114106033,114,Video,false,syllabus/syllabus.php?subjectId=114106033,/courses/114106033/
+Wave simulation, measurement and analysis,114106028,114,Web,false,syllabus/syllabus.php?subjectId=114106028,/courses/114106028
+Advanced Condensed Matter Physics,115106056,115,Video,false,syllabus/syllabus.php?subjectId=115106056,
+Advanced Quantum Mechanics,115108070,115,Video,false,syllabus/syllabus.php?subjectId=115108070,
+Advanced Statistical Mechanics,115103028,115,Web,false,syllabus/syllabus.php?subjectId=115103028,
+Advanced Statistical Mechanics and Phase Transitions,115108071,115,Video,false,syllabus/syllabus.php?subjectId=115108071,
+Advanced Statistical Physics,115108072,115,Video,false,syllabus/syllabus.php?subjectId=115108072,
+Applied Magnetism,115103029,115,Video,false,syllabus/syllabus.php?subjectId=115103029,
+Astrophysics & Cosmology,/courses/115105046/,115,Video,false,/courses/115105046/,/courses/askaquestion.php?subjectId=115105046
+Astrophysics and cosmology,115101002,115,Web,false,syllabus/syllabus.php?subjectId=115101002,
+Atomic and Molecular Physics,115101003,115,Web,false,syllabus/syllabus.php?subjectId=115101003,
+Basic Notions of Statistical Physics,115108073,115,Video,false,syllabus/syllabus.php?subjectId=115108073,
+Characterization of Materials,115103030,115,Web,false,syllabus/syllabus.php?subjectId=115103030,
+Classical Field Theory,115106058,115,Video,false,syllabus/syllabus.php?subjectId=115106058,
+Classical Mechanics,,115,Web,true,,
+Classical Mechanics,115106059,115,Video,false,syllabus/syllabus.php?subjectId=115106059,
+Computational Physics,115106060,115,Web,false,syllabus/syllabus.php?subjectId=115106060,
+Condensed Matter Physics,,115,Web,true,,
+Condensed Matter Physics,115106061,115,Video,false,syllabus/syllabus.php?subjectId=115106061,
+Dynamical Systems,115106062,115,Web,false,syllabus/syllabus.php?subjectId=115106062,
+Electrodynamics,115101004,115,Web,false,syllabus/syllabus.php?subjectId=115101004,/courses/115101004
+Electromagnetic Theory,115101005,115,Video,false,syllabus/syllabus.php?subjectId=115101005,
+Electromagnetic Theory,115103081,115,Video,false,syllabus/syllabus.php?subjectId=115103081,
+Electronic Properties of Solids,115103033,115,Web,false,syllabus/syllabus.php?subjectId=115103033,
+Electronics,115102014,115,Video,false,syllabus/syllabus.php?subjectId=115102014,/courses/115102014/
+Elementary Particle Physics,115101006,115,Web,false,syllabus/syllabus.php?subjectId=115101006,
+Engineering Optics,115102015,115,Web,false,syllabus/syllabus.php?subjectId=115102015,
+Fiber Optics: Technology and Applications,115103034,115,Video,false,syllabus/syllabus.php?subjectId=115103034,
+Fundamental concepts of semiconductors,115102025,115,Web,false,syllabus/syllabus.php?subjectId=115102025,
+Ideas and methods in condensed matter theory,115101009,115,Web,false,syllabus/syllabus.php?subjectId=115101009,
+Introduction to Physics of Nanoparticles and Nanostructures,115101007,115,Web,false,syllabus/syllabus.php?subjectId=115101007,
+Introduction to Plasma Physics,115104040,115,Video,false,syllabus/syllabus.php?subjectId=115104040,
+Laser Physics,115104041,115,Video,false,syllabus/syllabus.php?subjectId=115104041,
+Laser Spectroscopy,115103035,115,Web,false,syllabus/syllabus.php?subjectId=115103035,
+Materials Technology,115102016,115,Web,false,syllabus/syllabus.php?subjectId=115102016,
+Mathematical Physics - 1,115103036,115,Web,false,syllabus/syllabus.php?subjectId=115103036,
+Modern Physics,115104042,115,Video,false,syllabus/syllabus.php?subjectId=115104042,
+Non linear dynamics,,115,Web,true,,
+NonLinear Optics,115101008,115,Web,false,syllabus/syllabus.php?subjectId=115101008,
+Nuclear & Particle Physics,115103037,115,Video,false,syllabus/syllabus.php?subjectId=115103037,
+Nuclear & Particle Physics,,115,Web,true,,
+Nuclear Physics: Fundamentals and Applications,115104043,115,Video,false,syllabus/syllabus.php?subjectId=115104043,/courses/115104043/
+Nuclear Science & Engineering,115102017,115,Web,false,syllabus/syllabus.php?subjectId=115102017,/courses/115102017
+Optics,115102018,115,Video,false,syllabus/syllabus.php?subjectId=115102018,
+Optics,,115,Web,true,,
+Osillation and Wave,,115,Web,true,,
+Percolation: A Critical Phenomena,115103078,115,Web,false,syllabus/syllabus.php?subjectId=115103078,
+Photovoltaic Science & Engineering,115103079,115,Web,false,syllabus/syllabus.php?subjectId=115103079,
+Physics & Applications of Semiconductor Nanostructures (Semiconductor Nanodevices),115106076,115,Web,false,syllabus/syllabus.php?subjectId=115106076,/courses/115106076
+Physics and Principles of Measurement Systems,115103080,115,Web,false,syllabus/syllabus.php?subjectId=115103080,
+Physics of Magnetic Recording and Recording Media,115103038,115,Web,false,syllabus/syllabus.php?subjectId=115103038,
+Physics of Soft Condensed Matter,115106063,115,Web,false,syllabus/syllabus.php?subjectId=115106063,
+Physics of Thin Films and Nanostructure Fabrication,115102019,115,Web,false,syllabus/syllabus.php?subjectId=115102019,
+Plasma Physics: Fundamentals and Applications,115102020,115,Video,false,syllabus/syllabus.php?subjectId=115102020,/courses/115102020/
+Principles of Metrology,115102021,115,Web,false,syllabus/syllabus.php?subjectId=115102021,
+Quantum Computation and Quantum Information,115106064,115,Video,false,syllabus/syllabus.php?subjectId=115106064,
+Quantum Electronics,115102022,115,Video,false,syllabus/syllabus.php?subjectId=115102022,/courses/115102022/
+Quantum Field Theory,115106065,115,Video,false,syllabus/syllabus.php?subjectId=115106065,/courses/115106065/
+Quantum Mechanics and Applications,115102023,115,Video,false,syllabus/syllabus.php?subjectId=115102023,/courses/115102023/
+Quantum Mechanics I,115101010,115,Web,false,syllabus/syllabus.php?subjectId=115101010,/courses/115101010
+Quantum Mechanics I,115106066,115,Video,false,syllabus/syllabus.php?subjectId=115106066,/courses/115106066/
+Quantum Mechanics II,115102024,115,Video,false,syllabus/syllabus.php?subjectId=115102024,
+Quantum Mechanics II,115104045,115,Video,false,syllabus/syllabus.php?subjectId=115104045,
+Quantum Optics,115106067,115,Video,false,syllabus/syllabus.php?subjectId=115106067,
+Random Matrix Theory and Applications,115105052,115,Web,false,syllabus/syllabus.php?subjectId=115105052,
+Relativistic Quantum Mechanics,115108074,115,Video,false,syllabus/syllabus.php?subjectId=115108074,/courses/115108074/
+Relativity & GTR,,115,Web,true,,
+Semiconductor Optoelectronics,115102026,115,Web,false,syllabus/syllabus.php?subjectId=115102026,
+Solid State Ionics,,115,Web,true,,
+Special Theory of Relativity,115101011,115,Video,false,syllabus/syllabus.php?subjectId=115101011,
+Special Topics in Atomic Physics,115106057,115,Video,false,syllabus/syllabus.php?subjectId=115106057,/courses/115106057/
+Special Topics in Classical Mechanics,115106068,115,Video,false,syllabus/syllabus.php?subjectId=115106068,/courses/115106068/
+Spintronics: Physics and Technology,115103039,115,Web,false,syllabus/syllabus.php?subjectId=115103039,/courses/115103039
+Superconductivity,115101012,115,Web,false,syllabus/syllabus.php?subjectId=115101012,/courses/115101012
+Thermal and Statistical Physics,115106069,115,Web,false,syllabus/syllabus.php?subjectId=115106069,
+Thermal Physics,,115,Web,true,,
+Vacuum Science & Cryogenics,115102027,115,Web,false,syllabus/syllabus.php?subjectId=115102027,
+Chemistry and Practice of Textile finishing,116102002,116,Web,false,syllabus/syllabus.php?subjectId=116102002,
+Clothing Comfort,116106040,116,Video,false,syllabus/syllabus.php?subjectId=116106040,
+Clothing Comfort,116106041,116,Web,false,syllabus/syllabus.php?subjectId=116106041,
+Fabric Manufacture - I,116102005,116,Web,false,syllabus/syllabus.php?subjectId=116102005,
+Fabric Structure & Design,116106042,116,Web,false,syllabus/syllabus.php?subjectId=116106042,
+Fabric Structure & Design,116106043,116,Video,false,syllabus/syllabus.php?subjectId=116106043,
+High Performance and Specialty Fibres,116102006,116,Web,false,syllabus/syllabus.php?subjectId=116102006,
+Knitting Technology,116102008,116,Web,false,syllabus/syllabus.php?subjectId=116102008,/courses/116102008
+Manufactured Fibre Technology,116102010,116,Web,false,syllabus/syllabus.php?subjectId=116102010,
+Mechanics of Textile Machinery,116102012,116,Web,false,syllabus/syllabus.php?subjectId=116102012,
+Natural Dyes,116104044,116,Video,false,syllabus/syllabus.php?subjectId=116104044,/courses/116104044/
+Natural Dyes,116104046,116,Web,false,syllabus/syllabus.php?subjectId=116104046,/courses/116104046
+Newer Natural dyes-Separation, Structure, Innovative Dyeing and Application using ecofriendly mordants as well as Synthetic dyeing,116104047,116,Video,false,syllabus/syllabus.php?subjectId=116104047,
+Nonwoven Technology,116102014,116,Web,false,syllabus/syllabus.php?subjectId=116102014,/courses/116102014
+Quality Control in Textile Industry,116102019,116,Web,false,syllabus/syllabus.php?subjectId=116102019,/courses/116102019
+Shuttleless Weaving,116102017,116,Web,false,syllabus/syllabus.php?subjectId=116102017,
+Technical Textiles - I,116102022,116,Web,false,syllabus/syllabus.php?subjectId=116102022,
+Technical Textiles - II,116102023,116,Web,false,syllabus/syllabus.php?subjectId=116102023,
+Technology of textured yarns,,116,Video,true,,
+Textile chemical Processing: Theory and practice of Preparatory Processes,116102016,116,Web,false,syllabus/syllabus.php?subjectId=116102016,
+Textile Effluent and its Management,116104045,116,Web,false,syllabus/syllabus.php?subjectId=116104045,
+Textile Fibres,116102026,116,Web,false,syllabus/syllabus.php?subjectId=116102026,
+Textile Printing,,116,Video,true,,
+Textile Testing,116102029,116,Web,false,syllabus/syllabus.php?subjectId=116102029,/courses/116102029
+Theory and Practice of Dyeing,116102031,116,Video,false,syllabus/syllabus.php?subjectId=116102031,
+Theory of Fabric Structure,116102033,116,Web,false,syllabus/syllabus.php?subjectId=116102033,
+Theory of Yarn Structures,116102034,116,Video,false,syllabus/syllabus.php?subjectId=116102034,/courses/116102034/
+Yarn Manufacture - I,116102037,116,Web,false,syllabus/syllabus.php?subjectId=116102037,
+Yarn Manufacture - II,116102038,116,Web,false,syllabus/syllabus.php?subjectId=116102038,
+Adaptive Signal Processing,117105026,117,Web,false,syllabus/syllabus.php?subjectId=117105026,
+Adaptive Signal Processing,117105075,117,Video,false,video.php?subjectId=117105075,
+Adv. Digital Signal Processing - Multirate and wavelets,117101001,117,Video,false,syllabus/syllabus.php?subjectId=117101001,/courses/117101001/
+Advance Digital Communication,117103015,117,Web,false,syllabus/syllabus.php?subjectId=117103015,
+Advanced 3G and 4G Wireless Mobile Communications,117104099,117,Video,false,syllabus/syllabus.php?subjectId=117104099,/courses/117104099/
+Advanced Antenna Theory,117107035,117,Web,false,syllabus/syllabus.php?subjectId=117107035,
+Advanced Mobile Communication,117103016,117,Web,false,syllabus/syllabus.php?subjectId=117103016,
+Advanced Optical Communication,117101002,117,Video,false,syllabus/syllabus.php?subjectId=117101002,/courses/117101002/
+Advanced VLSI Design,,117,Web,true,,
+Advanced VLSI Design,,117,Video,true,,
+Analog Circuits,117107094,117,Web,false,syllabus/syllabus.php?subjectId=117107094,courses/Webcourse-contents/IIT-ROORKEE/Analog circuits/index.htm
+Analog IC Design,117105027,117,Web,false,syllabus/syllabus.php?subjectId=117105027,
+Analog IC Design,117106030,117,Video,false,syllabus/syllabus.php?subjectId=117106030,/courses/117106030/
+Artificial Neural Networks,117105028,117,Web,false,syllabus/syllabus.php?subjectId=117105028,
+Basic Electronics,117103063,117,Video,false,syllabus/syllabus.php?subjectId=117103063,video.php?subjectId=117103063
+Basic Electronics,117107095,117,Web,false,syllabus/syllabus.php?subjectId=117107095,courses/Webcourse-contents/IIT-ROORKEE/BASIC-ELECTRONICS/home_page.htm
+Biophotonics,117108037,117,Web,false,syllabus/syllabus.php?subjectId=117108037,
+Broadband Networks: Concepts and Technology,117101050,117,Video,false,syllabus/syllabus.php?subjectId=117101050,/courses/117101050/
+Circuits for Analog System Design,117108038,117,Video,false,syllabus/syllabus.php?subjectId=117108038,/courses/117108038/
+CMOS Mixed-Signal VLSI Design,117101006,117,Video,false,syllabus/syllabus.php?subjectId=117101006,
+Coding Theory,117106031,117,Video,false,syllabus/syllabus.php?subjectId=117106031,/courses/117106031/
+Communication Engineering,117102059,117,Video,false,syllabus/syllabus.php?subjectId=117102059,video.php?subjectId=117102059
+Communication Networking : Analytical Approach,117101005,117,Video,false,syllabus/syllabus.php?subjectId=117101005,
+Communication Networks and Switching,courses/Webcourse-contents/IIT Kharagpur/Communication network/New_index1.html,117,Web,false,courses/Webcourse-contents/IIT Kharagpur/Communication network/New_index1.html,
+Computational Electromagnetics,117106032,117,Web,false,syllabus/syllabus.php?subjectId=117106032,
+Digital Circuits,117103064,117,Web,false,syllabus/syllabus.php?subjectId=117103064,courses/Webcourse-contents/IIT- Guwahati/digital_circuit/frame/index.html
+Digital Circuits and Systems,117106086,117,Video,false,syllabus/syllabus.php?subjectId=117106086,video.php?subjectId=117106086
+Digital Communication,/courses/117101051/,117,Video,false,/courses/117101051/,
+Digital Communication,117105077,117,Web,false,syllabus/syllabus.php?subjectId=117105077,courses/Webcourse-contents/IIT Kharagpur/Digi Comm/New_index1.html
+Digital Computer Organization,117105078,117,Video,false,video.php?subjectId=117105078,
+Digital Controller Design,117108039,117,Video,false,syllabus/syllabus.php?subjectId=117108039,
+Digital Image Processing,117104069,117,Web,false,syllabus/syllabus.php?subjectId=117104069,courses/Webcourse-contents/IIT-KANPUR/Digi_Img_Pro/ui/About-Faculty.html
+Digital Image Processing,117105079,117,Video,false,syllabus/syllabus.php?subjectId=117105079,video.php?subjectId=117105079
+Digital Signal Processing,117102060,117,Video,false,syllabus/syllabus.php?subjectId=117102060,video.php?subjectId=117102060
+Digital Signal Processing,117104070,117,Web,false,syllabus/syllabus.php?subjectId=117104070,courses/Webcourse-contents/IIT-KANPUR/Digi_Sign_Pro/ui/About-Faculty.html
+Digital System design with PLDs and FPGAs,117108040,117,Video,false,syllabus/syllabus.php?subjectId=117108040,
+Digital Systems Design,117105080,117,Video,false,syllabus/syllabus.php?subjectId=117105080,video.php?subjectId=117105080
+Digital Video Signal Processing,117104020,117,Web,false,syllabus/syllabus.php?subjectId=117104020,
+Digital VLSI Circuits,117108041,117,Video,false,syllabus/syllabus.php?subjectId=117108041,
+Digital Voice & Picture Communication,117105081,117,Video,false,video.php?subjectId=117105081,
+Discrete Event Stochastic Processes,117108042,117,Video,false,syllabus/syllabus.php?subjectId=117108042,
+Electromagnetic Comptibility for Circuit Designers,117108043,117,Video,false,syllabus/syllabus.php?subjectId=117108043,
+Electromagnetic Fields,courses/Webcourse-contents/IIT- Guwahati/em/index.htm,117,Web,false,courses/Webcourse-contents/IIT- Guwahati/em/index.htm,
+Electronics for Analog Signal Processing - I,117106087,117,Video,false,video.php?subjectId=117106087,
+Electronics for Analog Signal Processing - II,117106088,117,Video,false,video.php?subjectId=117106088,
+Error Correcting Codes,117108044,117,Video,false,syllabus/syllabus.php?subjectId=117108044,/courses/117108044/
+High Speed Devices and Circuits,117106089,117,Video,false,syllabus/syllabus.php?subjectId=117106089,video.php?subjectId=117106089
+High Speed Semiconductor Devices,117104071,117,Web,false,syllabus/syllabus.php?subjectId=117104071,courses/Webcourse-contents/IIT-KANPUR/HighSpeed_SemiconductorDevices/ui/About-Faculty.html
+IC Technology,117103066,117,Web,false,syllabus/syllabus.php?subjectId=117103066,courses/Webcourse-contents/IIT- Guwahati/ic_tech/index.html
+Information Theory,117108045,117,Video,false,syllabus/syllabus.php?subjectId=117108045,
+Information Theory and Coding,/courses/117101053/,117,Video,false,/courses/117101053/,
+Information Theory and Coding,117108097,117,Web,false,syllabus/syllabus.php?subjectId=117108097,courses/Webcourse-contents/IISc-BANG/Information Theory and Coding/Learning Material - ITC.pdf
+Introduction to Digital Speech Processing,,117,Web,true,,
+Mechatronics,117108046,117,Video,false,syllabus/syllabus.php?subjectId=117108046,
+MEMS and Microsystems,117105082,117,Video,false,video.php?subjectId=117105082,
+Microcontrollers and Applications,117104072,117,Web,false,syllabus/syllabus.php?subjectId=117104072,courses/Webcourse-contents/IIT-KANPUR/microcontrollers/micro/ui/About-Faculty.html
+Microwave Theory and Techniques,117105029,117,Web,false,syllabus/syllabus.php?subjectId=117105029,
+Multimedia,,117,Video,true,,
+Multimedia processing,117105083,117,Web,false,syllabus/syllabus.php?subjectId=117105083,courses/Webcourse-contents/IIT Kharagpur/Multimedia Processing/New_index1.html
+Nanoelectronics: Devices and Materials,117108047,117,Video,false,syllabus/syllabus.php?subjectId=117108047,
+Neural Networks and Applications,117105084,117,Video,false,video.php?subjectId=117105084,
+Optical Communication,117101054,117,Web,false,syllabus/syllabus.php?subjectId=117101054,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Electrical%20&%20Comm%20Engg/Optical%20Communication/Course%20Objective.htm')
+Optical Networks,117102011,117,Web,false,syllabus/syllabus.php?subjectId=117102011,
+Optical networks and Switching systems,117104021,117,Video,false,syllabus/syllabus.php?subjectId=117104021,
+Pattern Recognition,117106100,117,Web,false,syllabus/syllabus.php?subjectId=117106100,
+Pattern Recognition,117108048,117,Video,false,syllabus/syllabus.php?subjectId=117108048,/courses/117108048/
+Pattern Recognition and Application,,117,Video,true,,
+Photonic Integrated Circuits,117108049,117,Video,false,syllabus/syllabus.php?subjectId=117108049,
+Principles of Communication,117106090,117,Web,false,syllabus/syllabus.php?subjectId=117106090,courses/IIT-MADRAS/Principles_of_Communication1/index.php
+Probability and Random Processes,117103067,117,Web,false,syllabus/syllabus.php?subjectId=117103067,courses/Webcourse-contents/IIT- Guwahati/probability_rp/index.htm
+Probability and Random Processes,117105085,117,Video,false,syllabus/syllabus.php?subjectId=117105085,video.php?subjectId=117105085
+Queuing Systems,117103017,117,Web,false,syllabus/syllabus.php?subjectId=117103017,/courses/117103017
+RF Integrated Circuits,117102012,117,Video,false,syllabus/syllabus.php?subjectId=117102012,/courses/117102012/
+Satellite Communication Systems,117107036,117,Web,false,syllabus/syllabus.php?subjectId=117107036,
+Semiconductor Device Modeling,,117,Video,true,,
+Semiconductor Devices,117102061,117,Web,false,syllabus/syllabus.php?subjectId=117102061,courses/Webcourse-contents/IIT-Delhi/Semiconductor Devices/index.htm
+Semiconductor Optical Communication Components and Devices,117104022,117,Web,false,syllabus/syllabus.php?subjectId=117104022,
+Signal Detection and Estimation Theory,117103018,117,Web,false,syllabus/syllabus.php?subjectId=117103018,
+Signal Processing Techniques for Speech Recognition,117104023,117,Video,false,syllabus/syllabus.php?subjectId=117104023,
+Signals and Systems,117101055,117,Web,false,syllabus/syllabus.php?subjectId=117101055,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Electrical%20&%20Comm%20Engg/Signals%20and%20System/Course%20Objective.htm')
+Signals and Systems,117104074,117,Video,false,syllabus/syllabus.php?subjectId=117104074,/courses/117104074/
+Simulation of Communication Systems,117104024,117,Web,false,syllabus/syllabus.php?subjectId=117104024,
+Solid State Devices,117106091,117,Video,false,syllabus/syllabus.php?subjectId=117106091,video.php?subjectId=117106091
+Statistical Signal Processing,117102013,117,Web,false,syllabus/syllabus.php?subjectId=117102013,
+Statistical Signal Processing,117103019,117,Video,false,syllabus/syllabus.php?subjectId=117103019,
+Structures and Methods in Communications and Signal Processing,117104025,117,Web,false,syllabus/syllabus.php?subjectId=117104025,
+Transmission Lines and EM Waves,117101056,117,Video,false,syllabus/syllabus.php?subjectId=117101056,video.php?subjectId=117101056
+Transmission Lines and EM Waves,117101057,117,Web,false,syllabus/syllabus.php?subjectId=117101057,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Electrical%20&%20Comm%20Engg/Transmission%20Lines%20and%20EM%20Waves/Course%20Objective.htm')
+VLSI Circuits,117106092,117,Video,false,syllabus/syllabus.php?subjectId=117106092,video.php?subjectId=117106092
+VLSI Data Conversion Circuits,117106034,117,Video,false,syllabus/syllabus.php?subjectId=117106034,/courses/117106034/
+VLSI Design,117101058,117,Web,false,syllabus/syllabus.php?subjectId=117101058,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Electrical%20&%20Comm%20Engg/VLSI%20Design/Course%20Objective.htm')
+VLSI Technology,117106093,117,Video,false,video.php?subjectId=117106093,
+Wireless Communication,117102062,117,Video,false,video.php?subjectId=117102062,
+Consolidation/Coating of nanomaterials and their applications,,118,Video,true,,
+Economics / Management / Entrepreneurhip,,118,Web,true,,
+Introduction to Colloid and Interface Science and Engineering,118104004,118,Web,false,syllabus/syllabus.php?subjectId=118104004,
+Introduction to nanoscience,,118,Web,true,,
+Introduction to Nantechnology,118108018,118,Web,false,syllabus/syllabus.php?subjectId=118108018,
+Nano structured materials-synthesis, properties, self assembly and applications,118102003,118,Video,false,syllabus/syllabus.php?subjectId=118102003,
+Nanobiotechnology,118106019,118,Web,false,syllabus/syllabus.php?subjectId=118106019,
+Nanobiotechnology,118107015,118,Web,false,syllabus/syllabus.php?subjectId=118107015,
+Nanophotonics,118106021,118,Web,false,syllabus/syllabus.php?subjectId=118106021,
+Nanostructured Materials,118107016,118,Web,false,syllabus/syllabus.php?subjectId=118107016,
+Nanostructures and Nanomaterials: Characterization and Properties,118104008,118,Video,false,syllabus/syllabus.php?subjectId=118104008,
+Physics & Applications of semiconductor nanostructures (Semiconductor Nan devices),,118,Video,true,,
+Science & Technology of MEMS/NEMS,,118,Video,true,,
+Aerosols and the Earth's Climate,119108001,119,Video,false,syllabus/syllabus.php?subjectId=119108001,
+Atmospheric Thermodynamics & Cloud Physics,119108002,119,Video,false,syllabus/syllabus.php?subjectId=119108002,
+Physics of Atmosphere and Ocean,119102007,119,Web,false,syllabus/syllabus.php?subjectId=119102007,
+Radiation Heat Transfer,119108004,119,Video,false,syllabus/syllabus.php?subjectId=119108004,/courses/119108004/
+Statistical Methods in Climate Science,119108005,119,Video,false,syllabus/syllabus.php?subjectId=119108005,
+The monsoon and its variability,119108006,119,Video,false,syllabus/syllabus.php?subjectId=119108006,
+Animal Behaviour,120108001,120,Video,false,syllabus/syllabus.php?subjectId=120108001,
+Aquatic Biodiversity and Environmental Pollution,120108002,120,Web,false,syllabus/syllabus.php?subjectId=120108002,/courses/120108002
+Ecology: Through an Elephant's Eyes,120108003,120,Video,false,syllabus/syllabus.php?subjectId=120108003,
+Environment Management,120108004,120,Web,false,syllabus/syllabus.php?subjectId=120108004,/courses/120108004
+Municipal Solid Waste Management,120108005,120,Web,false,syllabus/syllabus.php?subjectId=120108005,/courses/120108005
+India's Ayurvedic Inheritance,121106003,121,Video,false,syllabus/syllabus.php?subjectId=121106003,
+Intellectual Property Rights,121103002,121,Web,false,syllabus/syllabus.php?subjectId=121103002,
+Introduction to Research,121106001,121,Video,false,syllabus/syllabus.php?subjectId=121106001,
+Applied mechanics,122102004,122,Video,false,video.php?subjectId=122102004,
+Basic Electronics,122104013,122,Web,false,syllabus/syllabus.php?subjectId=122104013,courses/Webcourse-contents/IIT-KANPUR/esc102/index.html
+Basic Electronics and Lab,122106025,122,Video,false,syllabus/syllabus.php?subjectId=122106025,video.php?subjectId=122106025
+Basic Electronics and Lab,122106026,122,Web,false,syllabus/syllabus.php?subjectId=122106026,courses/IIT-MADRAS/Basic_Electronics_Lab/index.php
+Classical Physics,122106027,122,Video,false,video.php?subjectId=122106027,
+Concept of Management and Evolution of Management thought,122108038,122,Video,false,video.php?subjectId=122108038,
+Engineering Chemistry I,122101001,122,Web,false,syllabus/syllabus.php?subjectId=122101001,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Core%20Science/Engineering%20Chemistry%201/Course%20Objectives.html')
+Engineering Chemistry I,122106028,122,Video,false,video.php?subjectId=122106028,
+Engineering Chemistry III,122106029,122,Web,false,syllabus/syllabus.php?subjectId=122106029,courses/IIT-MADRAS/Engineering_Chemistry_III/index.php
+Engineering Mechanics,122104014,122,Web,false,syllabus/syllabus.php?subjectId=122104014,courses/Webcourse-contents/IIT-KANPUR/engg_mechanics/ui/About-Faculty.html
+Engineering Mechanics,122104015,122,Video,false,syllabus/syllabus.php?subjectId=122104015,video.php?subjectId=122104015
+Engineering Physics I (Experiment),122103010,122,Web,false,syllabus/syllabus.php?subjectId=122103010,courses/Webcourse-contents/IIT- Guwahati/engg_phy2/index_exp.htm
+Engineering Physics I (Theory),122103011,122,Web,false,syllabus/syllabus.php?subjectId=122103011,courses/Webcourse-contents/IIT- Guwahati/engg_physics/index_cont.htm
+Engineering Physics II,122101002,122,Web,false,syllabus/syllabus.php?subjectId=122101002,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Core%20Science/Engineering%20Physics%202/Course%20Objectives.html')
+Engineering Physics II,122104016,122,Video,false,video.php?subjectId=122104016,
+Environment and Ecology,122102006,122,Web,false,syllabus/syllabus.php?subjectId=122102006,courses/Webcourse-contents/IIT-Delhi/Environment and Ecology/index.htm
+Environmental Chemistry and Analysis,122106030,122,Web,false,syllabus/syllabus.php?subjectId=122106030,courses/IIT-MADRAS/Enivironmental_Chemistry_Analysis/index.php
+Human Resource Management-I,122105020,122,Video,false,video.php?subjectId=122105020,
+Leadership,122105021,122,Video,false,video.php?subjectId=122105021,
+Management Information System,122105022,122,Video,false,video.php?subjectId=122105022,
+Management Science I,122102007,122,Video,false,video.php?subjectId=122102007,
+Management Science I,122106031,122,Web,false,syllabus/syllabus.php?subjectId=122106031,courses/IIT-MADRAS/Management_Science_I/index.php
+Management Science II,122106032,122,Web,false,syllabus/syllabus.php?subjectId=122106032,courses/IIT-MADRAS/Management_Science_II/index.php
+Materials Science,122102008,122,Video,false,video.php?subjectId=122102008,
+Mathematics I,122101003,122,Web,false,syllabus/syllabus.php?subjectId=122101003,javascript:fullScreen('http://www.cdeep.iitb.ac.in/nptel/Core%20Science/Mathematics%20I/Course%20Objectives.html')
+Mathematics I,122104017,122,Video,false,syllabus/syllabus.php?subjectId=122104017,video.php?subjectId=122104017
+Mathematics II,122104018,122,Web,false,syllabus/syllabus.php?subjectId=122104018,courses/Webcourse-contents/IIT-KANPUR/mathematics-2/index.html
+Mathematics II,122107036,122,Video,false,video.php?subjectId=122107036,
+Mathematics III,122103012,122,Web,false,syllabus/syllabus.php?subjectId=122103012,courses/Webcourse-contents/IIT- Guwahati/maths3/index.htm
+Mathematics III,122107037,122,Video,false,syllabus/syllabus.php?subjectId=122107037,video.php?subjectId=122107037
+Numerical Analysis and Computer Programming,122106033,122,Video,false,syllabus/syllabus.php?subjectId=122106033,video.php?subjectId=122106033
+Numerical Analysis in Computer Programming,122104019,122,Web,false,syllabus/syllabus.php?subjectId=122104019,courses/Webcourse-contents/IIT-KANPUR/Numerical Analysis/front.htm
+Numerical Methods and Computation,122102009,122,Video,false,video.php?subjectId=122102009,
+Physics I - Oscillations & Waves,122105023,122,Video,false,video.php?subjectId=122105023,
+Quantum Physics,122106034,122,Video,false,video.php?subjectId=122106034,
+Strategic Management,122105024,122,Video,false,video.php?subjectId=122105024,
+An Introduction to Underground Mine Environment and Ventilation,123106002,123,Web,false,syllabus/syllabus.php?subjectId=123106002,
+Fundamentals of Environmental Pollution and Control,123105001,123,Video,false,video.php?subjectId=123105001,
+Manufacture of Automobile Components,125106001,125,Web,false,syllabus/syllabus.php?subjectId=125106001,
+Vehicle Dynamics,125106002,125,Web,false,syllabus/syllabus.php?subjectId=125106002,
